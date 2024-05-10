@@ -122,6 +122,7 @@ class ScryFrameEffect(str, Enum):
     SHATTEREDGLASS = "shatteredglass"
     SHOWCASE = "showcase"
     SNOW = "snow"
+    SPREE = "spree"
     STAMPED = "stamped"
     SUNMOONDFC = "sunmoondfc"
     TEXTLESS = "textless"
