@@ -30,6 +30,14 @@ As a matter of convenience, you can store the created spreadsheet in
 Dropbox, Google Drive, or the like and access your collection from
 anywhere.
 
+Mana Pool
+=========
+
+Please also check out my other major Magic: the Gathering project,
+`Mana Pool`_; buying your cards there helps support my morale.
+
+.. _Mana Pool: https://manapool.com
+
 Installation
 ============
 
@@ -139,7 +147,10 @@ Then configure the format to Excel A1:
 Contributions
 =============
 
-Pull requests are welcome and contributions are greatly appreciated.
+Pull requests are welcome and contributions are greatly appreciated. If you
+would like to contribute, please be sure that all tests and lint checks
+pass. Also consider running `python -m tests.gen_testdata` to ensure that
+everything is up to date and works.
 
 Issues can be reported via GitHub.
 
