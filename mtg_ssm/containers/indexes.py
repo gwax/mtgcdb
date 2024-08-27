@@ -10,16 +10,14 @@ from mtg_ssm.mtg import util
 from mtg_ssm.scryfall.models import ScryCard, ScryMigrationStrategy, ScrySet
 
 
-def name_card_sort_key(card: ScryCard) -> Tuple[str, int, str]:
+def name_card_sort_key(card: ScryCard) -> Tuple[str, str, int, str]:
     """Key function for sorting cards in a by-name list."""
-    card_num, card_var = util.collector_int_var(card)
-    return (card.set, card_num or 0, card_var or "")  # TODO: sort by set release date
+    return (card.set, *util.collector_number_parts(card.collector_number))
 
 
-def set_card_sort_key(card: ScryCard) -> Tuple[int, str]:
+def set_card_sort_key(card: ScryCard) -> Tuple[str, int, str]:
     """Key function for sorting cards in a by-set list."""
-    card_num, card_var = util.collector_int_var(card)
-    return (card_num or 0, card_var or "")
+    return util.collector_number_parts(card.collector_number)
 
 
 def build_snnmas(

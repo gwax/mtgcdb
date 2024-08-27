@@ -32,14 +32,14 @@ def oracle(scryfall_data: ScryfallDataSet) -> Oracle:
 
 
 def test_header() -> None:
-    assert [
+    assert csv.CSV_HEADER == [
         "set",
         "name",
         "collector_number",
         "scryfall_id",
         "nonfoil",
         "foil",
-    ] == csv.CSV_HEADER
+    ]
 
 
 def test_row_for_card(id_to_card: Dict[UUID, ScryCard]) -> None:

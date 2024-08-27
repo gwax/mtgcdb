@@ -23,7 +23,7 @@ ENDPOINT_TO_FILE: Dict[Union[str, Pattern[str]], Path] = {
 }
 
 
-@pytest.fixture()
+@pytest.fixture
 def _scryurls(requests_mock: RequestsMock) -> None:
     """Populate mock responses for scryfall urls."""
     for endpoint, filename in ENDPOINT_TO_FILE.items():

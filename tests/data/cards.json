@@ -20,7 +20,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 5553,
+    "edhrec_rank": 5964,
     "foil": false,
     "keywords": [],
     "layout": "normal",
@@ -53,7 +53,7 @@
     "nonfoil": true,
     "oracle_text": "Artifacts you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
     "oversized": false,
-    "penny_rank": 8860,
+    "penny_rank": 9042,
     "power": "2",
     "reserved": false,
     "toughness": "5",
@@ -88,10 +88,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/9/d/9d26f171-5bb6-463c-8473-53b6cc27ed66.jpg?1562928153"
     },
     "prices": {
-      "usd": "1.08",
+      "usd": "1.22",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.83",
+      "eur": "0.86",
       "eur_foil": null,
       "tix": null
     },
@@ -154,7 +154,6 @@
         "object": "card_face",
         "artist": "Mark Zug",
         "artist_id": "48e2b98c-5467-4671-bd42-4c3746115117",
-        "flavor_name": "",
         "mana_cost": "",
         "name": "Kaiso, Memory of Loyalty",
         "oracle_text": "Flying\nRemove a ki counter from Kaiso, Memory of Loyalty: Prevent all damage that would be dealt to target creature this turn.",
@@ -170,7 +169,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 23442,
+    "edhrec_rank": 24278,
     "foil": true,
     "keywords": [
       "Flying"
@@ -239,11 +238,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/7/5/758abd53-6ad2-406e-8615-8e48678405b4.jpg?1562877848"
     },
     "prices": {
-      "usd": "0.18",
-      "usd_foil": "0.29",
+      "usd": "0.14",
+      "usd_foil": "0.30",
       "usd_etched": null,
-      "eur": "0.05",
-      "eur_foil": "0.68",
+      "eur": "0.12",
+      "eur_foil": "0.77",
       "tix": "0.03"
     },
     "promo": false,
@@ -291,7 +290,7 @@
     "cmc": 0.0,
     "colors": [],
     "color_identity": [],
-    "edhrec_rank": 2098,
+    "edhrec_rank": 2209,
     "foil": true,
     "keywords": [],
     "layout": "normal",
@@ -307,7 +306,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "oathbreaker": "legal",
       "standardbrawl": "not_legal",
@@ -322,9 +321,9 @@
     "mana_cost": "",
     "name": "Boseiju, Who Shelters All",
     "nonfoil": true,
-    "oracle_text": "Boseiju, Who Shelters All enters the battlefield tapped.\n{T}, Pay 2 life: Add {C}. If that mana is spent on an instant or sorcery spell, that spell can't be countered.",
+    "oracle_text": "Boseiju, Who Shelters All enters tapped.\n{T}, Pay 2 life: Add {C}. If that mana is spent on an instant or sorcery spell, that spell can't be countered.",
     "oversized": false,
-    "penny_rank": 854,
+    "penny_rank": 632,
     "produced_mana": [
       "C"
     ],
@@ -361,12 +360,12 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/0180d9a8-992c-4d55-8ac4-33a587786993.jpg?1562757082"
     },
     "prices": {
-      "usd": "10.38",
-      "usd_foil": "59.70",
+      "usd": "10.41",
+      "usd_foil": "57.08",
       "usd_etched": null,
-      "eur": "5.12",
-      "eur_foil": "21.86",
-      "tix": "0.09"
+      "eur": "4.77",
+      "eur_foil": "19.53",
+      "tix": "0.18"
     },
     "promo": false,
     "purchase_uris": {
@@ -427,7 +426,6 @@
         "object": "card_face",
         "artist": "Mark Zug",
         "artist_id": "48e2b98c-5467-4671-bd42-4c3746115117",
-        "flavor_name": "",
         "mana_cost": "",
         "name": "Kenzo the Hardhearted",
         "oracle_text": "Double strike; bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)",
@@ -443,7 +441,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 15400,
+    "edhrec_rank": 16237,
     "foil": true,
     "keywords": [
       "Bushido",
@@ -462,7 +460,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "legal",
+      "penny": "not_legal",
       "commander": "legal",
       "oathbreaker": "legal",
       "standardbrawl": "not_legal",
@@ -478,7 +476,7 @@
     "name": "Bushi Tenderfoot // Kenzo the Hardhearted",
     "nonfoil": true,
     "oversized": false,
-    "penny_rank": 8978,
+    "penny_rank": 9156,
     "power": "1",
     "reserved": false,
     "toughness": "1",
@@ -514,11 +512,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/8/6/864ad989-19a6-4930-8efc-bbc077a18c32.jpg?1562762069"
     },
     "prices": {
-      "usd": "0.29",
-      "usd_foil": "1.82",
+      "usd": "0.30",
+      "usd_foil": "6.00",
       "usd_etched": null,
-      "eur": "0.20",
-      "eur_foil": "1.53",
+      "eur": "0.19",
+      "eur_foil": "1.15",
       "tix": "0.03"
     },
     "promo": false,
@@ -570,7 +568,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 20141,
+    "edhrec_rank": 21212,
     "foil": true,
     "keywords": [
       "Cumulative upkeep"
@@ -605,7 +603,7 @@
     "nonfoil": true,
     "oracle_text": "Cumulative upkeep—Put two cards from a single graveyard on the bottom of their owner's library. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
     "oversized": false,
-    "penny_rank": 8676,
+    "penny_rank": 8884,
     "power": "4",
     "reserved": false,
     "toughness": "4",
@@ -641,10 +639,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/5/5/5526c510-bd33-4fac-8941-f19bd0997557.jpg?1593274750"
     },
     "prices": {
-      "usd": "0.23",
-      "usd_foil": "5.99",
+      "usd": "0.25",
+      "usd_foil": "7.46",
       "usd_etched": null,
-      "eur": "0.17",
+      "eur": "0.15",
       "eur_foil": "1.31",
       "tix": "0.03"
     },
@@ -691,11 +689,11 @@
     "all_parts": [
       {
         "object": "related_card",
-        "id": "f38381fd-e368-46b2-94e9-89c9b182435d",
+        "id": "590abe94-9c71-4429-b1b5-8b5de877de03",
         "component": "token",
         "name": "Saproling",
         "type_line": "Token Creature — Saproling",
-        "uri": "https://api.scryfall.com/cards/f38381fd-e368-46b2-94e9-89c9b182435d"
+        "uri": "https://api.scryfall.com/cards/590abe94-9c71-4429-b1b5-8b5de877de03"
       },
       {
         "object": "related_card",
@@ -713,7 +711,7 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 6901,
+    "edhrec_rank": 7362,
     "foil": false,
     "keywords": [],
     "layout": "normal",
@@ -746,7 +744,7 @@
     "nonfoil": true,
     "oracle_text": "At the beginning of your upkeep, put a spore counter on Thallid.\nRemove three spore counters from Thallid: Create a 1/1 green Saproling creature token.",
     "oversized": false,
-    "penny_rank": 8599,
+    "penny_rank": 8957,
     "power": "1",
     "reserved": false,
     "toughness": "1",
@@ -780,10 +778,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/4/c/4caaf31b-86a9-485b-8da7-d5b526ed1233.jpg?1562909047"
     },
     "prices": {
-      "usd": "0.20",
+      "usd": "0.21",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.13",
+      "eur": "0.23",
       "eur_foil": null,
       "tix": null
     },
@@ -830,11 +828,11 @@
     "all_parts": [
       {
         "object": "related_card",
-        "id": "f38381fd-e368-46b2-94e9-89c9b182435d",
+        "id": "590abe94-9c71-4429-b1b5-8b5de877de03",
         "component": "token",
         "name": "Saproling",
         "type_line": "Token Creature — Saproling",
-        "uri": "https://api.scryfall.com/cards/f38381fd-e368-46b2-94e9-89c9b182435d"
+        "uri": "https://api.scryfall.com/cards/590abe94-9c71-4429-b1b5-8b5de877de03"
       },
       {
         "object": "related_card",
@@ -852,7 +850,7 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 6901,
+    "edhrec_rank": 7362,
     "foil": false,
     "keywords": [],
     "layout": "normal",
@@ -885,7 +883,7 @@
     "nonfoil": true,
     "oracle_text": "At the beginning of your upkeep, put a spore counter on Thallid.\nRemove three spore counters from Thallid: Create a 1/1 green Saproling creature token.",
     "oversized": false,
-    "penny_rank": 8599,
+    "penny_rank": 8957,
     "power": "1",
     "reserved": false,
     "toughness": "1",
@@ -919,10 +917,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/8/0/80f8f778-ae31-45cd-b27f-f93a07853ede.jpg?1562918912"
     },
     "prices": {
-      "usd": "0.17",
+      "usd": "0.16",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.13",
+      "eur": "0.15",
       "eur_foil": null,
       "tix": null
     },
@@ -969,11 +967,11 @@
     "all_parts": [
       {
         "object": "related_card",
-        "id": "f38381fd-e368-46b2-94e9-89c9b182435d",
+        "id": "590abe94-9c71-4429-b1b5-8b5de877de03",
         "component": "token",
         "name": "Saproling",
         "type_line": "Token Creature — Saproling",
-        "uri": "https://api.scryfall.com/cards/f38381fd-e368-46b2-94e9-89c9b182435d"
+        "uri": "https://api.scryfall.com/cards/590abe94-9c71-4429-b1b5-8b5de877de03"
       },
       {
         "object": "related_card",
@@ -991,7 +989,7 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 6901,
+    "edhrec_rank": 7362,
     "foil": false,
     "keywords": [],
     "layout": "normal",
@@ -1024,7 +1022,7 @@
     "nonfoil": true,
     "oracle_text": "At the beginning of your upkeep, put a spore counter on Thallid.\nRemove three spore counters from Thallid: Create a 1/1 green Saproling creature token.",
     "oversized": false,
-    "penny_rank": 8599,
+    "penny_rank": 8957,
     "power": "1",
     "reserved": false,
     "toughness": "1",
@@ -1058,10 +1056,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/2/c/2cf2f3da-9101-439d-8caa-910ff40bfbb3.jpg?1562903271"
     },
     "prices": {
-      "usd": "0.23",
+      "usd": "0.19",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.14",
+      "eur": "0.18",
       "eur_foil": null,
       "tix": null
     },
@@ -1108,11 +1106,11 @@
     "all_parts": [
       {
         "object": "related_card",
-        "id": "f38381fd-e368-46b2-94e9-89c9b182435d",
+        "id": "590abe94-9c71-4429-b1b5-8b5de877de03",
         "component": "token",
         "name": "Saproling",
         "type_line": "Token Creature — Saproling",
-        "uri": "https://api.scryfall.com/cards/f38381fd-e368-46b2-94e9-89c9b182435d"
+        "uri": "https://api.scryfall.com/cards/590abe94-9c71-4429-b1b5-8b5de877de03"
       },
       {
         "object": "related_card",
@@ -1130,7 +1128,7 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 6901,
+    "edhrec_rank": 7362,
     "foil": false,
     "keywords": [],
     "layout": "normal",
@@ -1163,7 +1161,7 @@
     "nonfoil": true,
     "oracle_text": "At the beginning of your upkeep, put a spore counter on Thallid.\nRemove three spore counters from Thallid: Create a 1/1 green Saproling creature token.",
     "oversized": false,
-    "penny_rank": 8599,
+    "penny_rank": 8957,
     "power": "1",
     "reserved": false,
     "toughness": "1",
@@ -1200,7 +1198,7 @@
       "usd": "0.21",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.20",
+      "eur": "0.17",
       "eur_foil": null,
       "tix": null
     },
@@ -1251,7 +1249,7 @@
     "color_identity": [
       "B"
     ],
-    "edhrec_rank": 21295,
+    "edhrec_rank": 22183,
     "foil": false,
     "keywords": [
       "Protection",
@@ -1321,7 +1319,7 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/0/c/0c6f0614-06dc-4bd2-b8b9-d951ae27db21.jpg?1575874678"
     },
     "prices": {
-      "usd": "0.17",
+      "usd": "0.15",
       "usd_foil": null,
       "usd_etched": null,
       "eur": "0.04",
@@ -1375,7 +1373,7 @@
     "color_identity": [
       "B"
     ],
-    "edhrec_rank": 21295,
+    "edhrec_rank": 22183,
     "foil": false,
     "keywords": [
       "Protection",
@@ -1445,10 +1443,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/4/a/4a7b2cc1-cb0b-4cb8-963f-453a1d5b0e3c.jpg?1562587268"
     },
     "prices": {
-      "usd": "0.18",
+      "usd": "0.15",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.03",
+      "eur": "0.05",
       "eur_foil": null,
       "tix": null
     },
@@ -1501,7 +1499,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 3669,
+    "edhrec_rank": 4075,
     "foil": false,
     "keywords": [
       "Cycling"
@@ -1519,7 +1517,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "oathbreaker": "legal",
       "standardbrawl": "not_legal",
@@ -1536,7 +1534,7 @@
     "nonfoil": true,
     "oracle_text": "Destroy all artifacts, creatures, and enchantments.\nCycling {3} ({3}, Discard this card: Draw a card.)",
     "oversized": false,
-    "penny_rank": 515,
+    "penny_rank": 644,
     "reserved": false,
     "type_line": "Sorcery",
     "artist": "Greg Hildebrandt & Tim Hildebrandt",
@@ -1571,10 +1569,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/b/8/b8f5e276-d7c3-4b4b-ac5b-9bb1aeeca8d0.jpg?1562842869"
     },
     "prices": {
-      "usd": "0.41",
+      "usd": "0.39",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.37",
+      "eur": "0.36",
       "eur_foil": null,
       "tix": "0.45"
     },
@@ -1627,7 +1625,7 @@
     "color_identity": [
       "B"
     ],
-    "edhrec_rank": 52,
+    "edhrec_rank": 49,
     "foil": false,
     "keywords": [],
     "layout": "normal",
@@ -1643,7 +1641,7 @@
       "legacy": "legal",
       "pauper": "legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "oathbreaker": "banned",
       "standardbrawl": "not_legal",
@@ -1660,7 +1658,7 @@
     "nonfoil": true,
     "oracle_text": "Add {B}{B}{B}.",
     "oversized": false,
-    "penny_rank": 29,
+    "penny_rank": 28,
     "produced_mana": [
       "B"
     ],
@@ -1697,12 +1695,12 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c8c774f2-110e-476c-a4ff-cc86d31c6ae7.jpg?1562842886"
     },
     "prices": {
-      "usd": "2.60",
+      "usd": "3.90",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "4.18",
+      "eur": "3.92",
       "eur_foil": null,
-      "tix": "0.18"
+      "tix": "0.16"
     },
     "promo": false,
     "purchase_uris": {
@@ -1752,7 +1750,7 @@
     "color_identity": [
       "B"
     ],
-    "edhrec_rank": 52,
+    "edhrec_rank": 49,
     "foil": false,
     "keywords": [],
     "layout": "normal",
@@ -1768,7 +1766,7 @@
       "legacy": "legal",
       "pauper": "legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "oathbreaker": "banned",
       "standardbrawl": "not_legal",
@@ -1785,7 +1783,7 @@
     "nonfoil": true,
     "oracle_text": "Add {B}{B}{B}.",
     "oversized": false,
-    "penny_rank": 29,
+    "penny_rank": 28,
     "produced_mana": [
       "B"
     ],
@@ -1822,12 +1820,12 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/4/e/4ebcd681-1871-4914-bcd7-6bd95829f6e0.jpg?1562909407"
     },
     "prices": {
-      "usd": "1.31",
+      "usd": "1.40",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "1.17",
+      "eur": "1.02",
       "eur_foil": null,
-      "tix": "0.48"
+      "tix": "0.22"
     },
     "promo": false,
     "purchase_uris": {
@@ -1942,12 +1940,12 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/f/b/fbdcbd97-90a9-45ea-94f6-2a1c6faaf965.jpg?1562942481"
     },
     "prices": {
-      "usd": "0.61",
+      "usd": "0.46",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.53",
+      "eur": "0.56",
       "eur_foil": null,
-      "tix": "0.05"
+      "tix": "0.04"
     },
     "promo": false,
     "purchase_uris": {
@@ -2062,12 +2060,12 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/b/3/b346b784-7bde-49d0-bfa9-56236cbe19d9.jpg?1562928391"
     },
     "prices": {
-      "usd": "0.60",
+      "usd": "0.62",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.37",
+      "eur": "0.63",
       "eur_foil": null,
-      "tix": "0.83"
+      "tix": "0.80"
     },
     "promo": false,
     "purchase_uris": {
@@ -2182,10 +2180,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/768c4d8f-5700-4f0a-9ff2-58422aeb1dac.jpg?1562916916"
     },
     "prices": {
-      "usd": "0.39",
+      "usd": "0.31",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.32",
+      "eur": "0.43",
       "eur_foil": null,
       "tix": "0.91"
     },
@@ -2302,12 +2300,12 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/4/c/4c0ad95c-d62c-4138-ada0-fa39a63a449e.jpg?1562908930"
     },
     "prices": {
-      "usd": "1.96",
+      "usd": "1.91",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "1.23",
+      "eur": "1.31",
       "eur_foil": null,
-      "tix": "0.94"
+      "tix": "0.76"
     },
     "promo": false,
     "purchase_uris": {
@@ -2358,7 +2356,7 @@
     "color_identity": [
       "B"
     ],
-    "edhrec_rank": 17527,
+    "edhrec_rank": 18077,
     "foil": true,
     "keywords": [
       "First strike"
@@ -2393,7 +2391,6 @@
     "nonfoil": true,
     "oracle_text": "First strike\nWhenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.",
     "oversized": false,
-    "penny_rank": 14286,
     "power": "3",
     "reserved": false,
     "toughness": "2",
@@ -2430,11 +2427,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/5/9/59cf0906-04fa-4b30-a7a6-3d117931154f.jpg?1562830661"
     },
     "prices": {
-      "usd": "0.06",
-      "usd_foil": "0.27",
+      "usd": "0.07",
+      "usd_foil": "0.32",
       "usd_etched": null,
-      "eur": "0.04",
-      "eur_foil": "0.36",
+      "eur": "0.07",
+      "eur_foil": "0.31",
       "tix": "0.04"
     },
     "promo": false,
@@ -2532,7 +2529,6 @@
         "colors": [
           "U"
         ],
-        "flavor_name": "",
         "flavor_text": "\"Unfortunately, all my test animals have died or escaped, so I shall be the final subject. I feel no fear. This is a momentous night.\"\n—Laboratory notes, final entry",
         "illustration_id": "c2b5f731-771b-4949-90f3-0ad40d676100",
         "image_uris": {
@@ -2555,7 +2551,7 @@
     "color_identity": [
       "U"
     ],
-    "edhrec_rank": 13405,
+    "edhrec_rank": 14207,
     "foil": true,
     "keywords": [
       "Flying",
@@ -2563,8 +2559,8 @@
     ],
     "layout": "transform",
     "legalities": {
-      "standard": "legal",
-      "future": "legal",
+      "standard": "not_legal",
+      "future": "not_legal",
       "historic": "legal",
       "timeless": "legal",
       "gladiator": "legal",
@@ -2577,7 +2573,7 @@
       "penny": "not_legal",
       "commander": "legal",
       "oathbreaker": "legal",
-      "standardbrawl": "legal",
+      "standardbrawl": "not_legal",
       "brawl": "legal",
       "alchemy": "not_legal",
       "paupercommander": "legal",
@@ -2589,7 +2585,7 @@
     "name": "Delver of Secrets // Insectile Aberration",
     "nonfoil": true,
     "oversized": false,
-    "penny_rank": 135,
+    "penny_rank": 136,
     "reserved": false,
     "type_line": "Creature — Human Wizard // Creature — Human Insect",
     "artist": "Nils Hamm",
@@ -2616,11 +2612,11 @@
     "highres_image": true,
     "image_status": "highres_scan",
     "prices": {
-      "usd": "0.29",
-      "usd_foil": "3.71",
+      "usd": "0.40",
+      "usd_foil": "3.53",
       "usd_etched": null,
-      "eur": "0.84",
-      "eur_foil": "5.08",
+      "eur": "0.73",
+      "eur_foil": "5.74",
       "tix": "0.03"
     },
     "promo": false,
@@ -2738,11 +2734,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/b/6/b606f644-1728-4cb3-90ed-121838875de1.jpg?1562835915"
     },
     "prices": {
-      "usd": "0.20",
-      "usd_foil": "2.69",
+      "usd": "0.22",
+      "usd_foil": "2.71",
       "usd_etched": null,
-      "eur": "0.17",
-      "eur_foil": "0.78",
+      "eur": "0.16",
+      "eur_foil": "1.13",
       "tix": "0.03"
     },
     "promo": false,
@@ -2860,10 +2856,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/1/6/16f52885-1f01-4f06-90a8-1a0ecf291ab5.jpg?1562826752"
     },
     "prices": {
-      "usd": "0.26",
-      "usd_foil": "1.74",
+      "usd": "0.23",
+      "usd_foil": "1.81",
       "usd_etched": null,
-      "eur": "0.10",
+      "eur": "0.17",
       "eur_foil": "1.20",
       "tix": "0.04"
     },
@@ -2982,11 +2978,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/4/d/4dea3762-c6ae-4304-aee4-6c3f56685319.jpg?1562829937"
     },
     "prices": {
-      "usd": "0.22",
-      "usd_foil": "0.80",
+      "usd": "0.21",
+      "usd_foil": "0.92",
       "usd_etched": null,
-      "eur": "0.14",
-      "eur_foil": "1.12",
+      "eur": "0.15",
+      "eur_foil": "1.28",
       "tix": "0.03"
     },
     "promo": false,
@@ -3180,7 +3176,7 @@
     "cmc": 4.0,
     "colors": [],
     "color_identity": [],
-    "edhrec_rank": 1755,
+    "edhrec_rank": 1893,
     "foil": true,
     "keywords": [],
     "layout": "normal",
@@ -3213,7 +3209,7 @@
     "nonfoil": true,
     "oracle_text": "At the beginning of your end step, draw a card if your life total is greater than your starting life total. Otherwise, you gain 2 life.",
     "oversized": false,
-    "penny_rank": 1158,
+    "penny_rank": 1232,
     "reserved": false,
     "type_line": "Artifact",
     "artist": "Volkan Baǵa",
@@ -3249,11 +3245,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/6/b/6bf084fe-7762-49c5-974a-cdecc10666b3.jpg?1639436665"
     },
     "prices": {
-      "usd": "1.72",
-      "usd_foil": "2.50",
+      "usd": "1.48",
+      "usd_foil": "1.66",
       "usd_etched": null,
-      "eur": "1.54",
-      "eur_foil": "1.78",
+      "eur": "1.50",
+      "eur_foil": "1.93",
       "tix": "0.02"
     },
     "promo": false,
@@ -3323,7 +3319,7 @@
     "cmc": 4.0,
     "colors": [],
     "color_identity": [],
-    "edhrec_rank": 1755,
+    "edhrec_rank": 1893,
     "foil": true,
     "keywords": [],
     "layout": "normal",
@@ -3356,7 +3352,7 @@
     "nonfoil": true,
     "oracle_text": "At the beginning of your end step, draw a card if your life total is greater than your starting life total. Otherwise, you gain 2 life.",
     "oversized": false,
-    "penny_rank": 1158,
+    "penny_rank": 1232,
     "reserved": false,
     "type_line": "Artifact",
     "artist": "Volkan Baǵa",
@@ -3394,11 +3390,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/e/a/ea524e81-4898-4a41-8b34-06defd26e4c7.jpg?1631056797"
     },
     "prices": {
-      "usd": "1.37",
+      "usd": "1.99",
       "usd_foil": "1.90",
       "usd_etched": null,
-      "eur": "2.40",
-      "eur_foil": "2.94",
+      "eur": "2.03",
+      "eur_foil": "3.09",
       "tix": null
     },
     "promo": false,
@@ -3457,7 +3453,7 @@
     "color_identity": [
       "U"
     ],
-    "edhrec_rank": 20388,
+    "edhrec_rank": 21211,
     "foil": false,
     "keywords": [
       "Flying"
@@ -3492,7 +3488,7 @@
     "nonfoil": true,
     "oracle_text": "Flying",
     "oversized": false,
-    "penny_rank": 12444,
+    "penny_rank": 12727,
     "power": "4",
     "reserved": false,
     "toughness": "4",
@@ -3527,10 +3523,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/69c3b2a3-0daa-4d42-832d-fcdfda6555ea.jpg?1559591522"
     },
     "prices": {
-      "usd": null,
+      "usd": "159.95",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "175.20",
+      "eur": "155.73",
       "eur_foil": null,
       "tix": null
     },
@@ -3581,7 +3577,7 @@
     "color_identity": [
       "B"
     ],
-    "edhrec_rank": 52,
+    "edhrec_rank": 49,
     "foil": false,
     "keywords": [],
     "layout": "normal",
@@ -3597,7 +3593,7 @@
       "legacy": "legal",
       "pauper": "legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "oathbreaker": "banned",
       "standardbrawl": "not_legal",
@@ -3614,7 +3610,7 @@
     "nonfoil": true,
     "oracle_text": "Add {B}{B}{B}.",
     "oversized": false,
-    "penny_rank": 29,
+    "penny_rank": 28,
     "produced_mana": [
       "B"
     ],
@@ -3649,10 +3645,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/e/b/ebb6664d-23ca-456e-9916-afcd6f26aa7f.jpg?1559591495"
     },
     "prices": {
-      "usd": "205.67",
+      "usd": "322.18",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "171.47",
+      "eur": "153.90",
       "eur_foil": null,
       "tix": null
     },
@@ -3767,10 +3763,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/6/f/6f1c8cb0-38eb-408b-94e8-16db83999b3b.jpg?1559591465"
     },
     "prices": {
-      "usd": "38.12",
+      "usd": "37.23",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "37.87",
+      "eur": "29.85",
       "eur_foil": null,
       "tix": null
     },
@@ -3885,10 +3881,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/f/2/f20c89d9-71c9-45f5-a9cb-6e253b0a7cca.jpg?1559591510"
     },
     "prices": {
-      "usd": "52.90",
+      "usd": "47.58",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "43.66",
+      "eur": "44.26",
       "eur_foil": null,
       "tix": null
     },
@@ -3941,7 +3937,7 @@
     "color_identity": [
       "B"
     ],
-    "edhrec_rank": 2042,
+    "edhrec_rank": 2089,
     "foil": true,
     "keywords": [],
     "layout": "normal",
@@ -3974,7 +3970,7 @@
     "nonfoil": true,
     "oracle_text": "Put X -1/-1 counters on each creature. Shuffle Black Sun's Zenith into its owner's library.",
     "oversized": false,
-    "penny_rank": 1924,
+    "penny_rank": 1991,
     "reserved": false,
     "type_line": "Sorcery",
     "artist": "Daniel Ljunggren",
@@ -4009,11 +4005,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/0/3/03bdcf52-50b8-42c0-9665-931d83f5f314.jpg?1562609329"
     },
     "prices": {
-      "usd": "4.02",
-      "usd_foil": "7.41",
+      "usd": "2.11",
+      "usd_foil": "6.99",
       "usd_etched": null,
-      "eur": "2.19",
-      "eur_foil": "7.05",
+      "eur": "1.63",
+      "eur_foil": "5.99",
       "tix": "0.02"
     },
     "promo": false,
@@ -4084,7 +4080,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 1823,
+    "edhrec_rank": 1899,
     "foil": true,
     "keywords": [
       "Battle Cry"
@@ -4119,7 +4115,7 @@
     "nonfoil": true,
     "oracle_text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)\nWhenever Hero of Bladehold attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking.",
     "oversized": false,
-    "penny_rank": 2848,
+    "penny_rank": 3455,
     "power": "3",
     "reserved": false,
     "toughness": "4",
@@ -4155,11 +4151,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/8/a/8a3853ec-e307-46e0-96d7-0706b5c45c5e.jpg?1562612851"
     },
     "prices": {
-      "usd": "6.09",
-      "usd_foil": "19.15",
+      "usd": "4.95",
+      "usd_foil": "20.70",
       "usd_etched": null,
-      "eur": "3.28",
-      "eur_foil": "8.54",
+      "eur": "3.65",
+      "eur_foil": "8.66",
       "tix": "0.02"
     },
     "promo": false,
@@ -4230,7 +4226,7 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 6901,
+    "edhrec_rank": 7362,
     "foil": true,
     "keywords": [],
     "layout": "normal",
@@ -4263,7 +4259,7 @@
     "nonfoil": true,
     "oracle_text": "At the beginning of your upkeep, put a spore counter on Thallid.\nRemove three spore counters from Thallid: Create a 1/1 green Saproling creature token.",
     "oversized": false,
-    "penny_rank": 8599,
+    "penny_rank": 8957,
     "power": "1",
     "reserved": false,
     "toughness": "1",
@@ -4299,11 +4295,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/69d20d28-76e9-4e6e-95c3-f88c51dfabfd.jpg?1561967373"
     },
     "prices": {
-      "usd": "0.41",
-      "usd_foil": "0.54",
+      "usd": "0.42",
+      "usd_foil": "0.62",
       "usd_etched": null,
-      "eur": "0.22",
-      "eur_foil": "0.24",
+      "eur": "0.23",
+      "eur_foil": "0.35",
       "tix": "0.03"
     },
     "promo": false,
@@ -4353,15 +4349,15 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 85,
+    "edhrec_rank": 84,
     "foil": true,
     "keywords": [
       "Channel"
     ],
     "layout": "normal",
     "legalities": {
-      "standard": "legal",
-      "future": "legal",
+      "standard": "not_legal",
+      "future": "not_legal",
       "historic": "legal",
       "timeless": "legal",
       "gladiator": "legal",
@@ -4374,7 +4370,7 @@
       "penny": "not_legal",
       "commander": "legal",
       "oathbreaker": "legal",
-      "standardbrawl": "legal",
+      "standardbrawl": "not_legal",
       "brawl": "legal",
       "alchemy": "not_legal",
       "paupercommander": "not_legal",
@@ -4428,12 +4424,12 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1654568912"
     },
     "prices": {
-      "usd": "33.85",
-      "usd_foil": "36.01",
+      "usd": "32.41",
+      "usd_foil": "34.41",
       "usd_etched": null,
-      "eur": "34.91",
-      "eur_foil": "40.72",
-      "tix": "17.41"
+      "eur": "34.21",
+      "eur_foil": "38.03",
+      "tix": "5.94"
     },
     "promo": false,
     "purchase_uris": {
@@ -4487,15 +4483,15 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 85,
+    "edhrec_rank": 84,
     "foil": true,
     "keywords": [
       "Channel"
     ],
     "layout": "normal",
     "legalities": {
-      "standard": "legal",
-      "future": "legal",
+      "standard": "not_legal",
+      "future": "not_legal",
       "historic": "legal",
       "timeless": "legal",
       "gladiator": "legal",
@@ -4508,7 +4504,7 @@
       "penny": "not_legal",
       "commander": "legal",
       "oathbreaker": "legal",
-      "standardbrawl": "legal",
+      "standardbrawl": "not_legal",
       "brawl": "legal",
       "alchemy": "not_legal",
       "paupercommander": "not_legal",
@@ -4562,11 +4558,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/0/0/0055ea30-20fb-4324-a632-8fed87628f05.jpg?1647145068"
     },
     "prices": {
-      "usd": "44.08",
-      "usd_foil": "92.33",
+      "usd": "40.79",
+      "usd_foil": "80.45",
       "usd_etched": null,
-      "eur": "48.28",
-      "eur_foil": "78.22",
+      "eur": "48.08",
+      "eur_foil": "83.65",
       "tix": null
     },
     "promo": false,
@@ -4623,15 +4619,15 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 85,
+    "edhrec_rank": 84,
     "foil": true,
     "keywords": [
       "Channel"
     ],
     "layout": "normal",
     "legalities": {
-      "standard": "legal",
-      "future": "legal",
+      "standard": "not_legal",
+      "future": "not_legal",
       "historic": "legal",
       "timeless": "legal",
       "gladiator": "legal",
@@ -4644,7 +4640,7 @@
       "penny": "not_legal",
       "commander": "legal",
       "oathbreaker": "legal",
-      "standardbrawl": "legal",
+      "standardbrawl": "not_legal",
       "brawl": "legal",
       "alchemy": "not_legal",
       "paupercommander": "not_legal",
@@ -4699,11 +4695,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/2/4/2488a80b-6882-4b59-8232-f02f800204a9.jpg?1647809455"
     },
     "prices": {
-      "usd": "35.62",
-      "usd_foil": "51.31",
+      "usd": "34.54",
+      "usd_foil": "43.12",
       "usd_etched": null,
-      "eur": "40.59",
-      "eur_foil": "57.63",
+      "eur": "38.38",
+      "eur_foil": "63.11",
       "tix": null
     },
     "promo": false,
@@ -4822,10 +4818,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/1/7/17b941e9-5dcc-473e-a461-709d74e32a3c.jpg?1562252328"
     },
     "prices": {
-      "usd": "23.24",
+      "usd": "42.94",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "14.50",
+      "eur": "13.21",
       "eur_foil": null,
       "tix": null
     },
@@ -4942,11 +4938,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/7/0/7019912c-bd9b-4b96-9388-400794909aa1.jpg?1562917413"
     },
     "prices": {
-      "usd": "0.71",
-      "usd_foil": "8.44",
+      "usd": "0.45",
+      "usd_foil": "7.12",
       "usd_etched": null,
-      "eur": "0.46",
-      "eur_foil": "5.14",
+      "eur": "0.48",
+      "eur_foil": "6.05",
       "tix": "0.03"
     },
     "promo": false,
@@ -5059,10 +5055,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/9/c/9cc070d3-4b83-4684-9caf-063e5c473a77.jpg?1657725364"
     },
     "prices": {
-      "usd": "2.06",
+      "usd": "2.23",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "1.65",
+      "eur": "1.01",
       "eur_foil": null,
       "tix": null
     },
@@ -5179,11 +5175,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/69b215fe-0d97-4ca1-9490-174220fd454b.jpg?1562916234"
     },
     "prices": {
-      "usd": "0.87",
-      "usd_foil": "13.02",
+      "usd": "0.62",
+      "usd_foil": "9.59",
       "usd_etched": null,
-      "eur": "0.52",
-      "eur_foil": "7.88",
+      "eur": "0.56",
+      "eur_foil": "7.69",
       "tix": "0.03"
     },
     "promo": false,
@@ -5296,10 +5292,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/6/0/60682c00-c661-4a9d-8326-f3f014a04e3e.jpg?1562914528"
     },
     "prices": {
-      "usd": "1.06",
+      "usd": "0.95",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.93",
+      "eur": "0.87",
       "eur_foil": null,
       "tix": null
     },
@@ -5413,7 +5409,7 @@
       "usd": "19.99",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "2.54",
+      "eur": "2.90",
       "eur_foil": null,
       "tix": null
     },
@@ -5525,12 +5521,12 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/f/a/fabef637-fb4b-41b5-8d12-5568e84c6d11.jpg?1658417480"
     },
     "prices": {
-      "usd": "5.57",
+      "usd": "5.21",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "1.11",
+      "eur": "1.01",
       "eur_foil": null,
-      "tix": "3.77"
+      "tix": "2.94"
     },
     "promo": false,
     "purchase_uris": {
@@ -5639,10 +5635,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/3/6/36ab24d3-ca9d-4b9c-8c28-4dd1f05a2314.jpg?1547434158"
     },
     "prices": {
-      "usd": "1.32",
+      "usd": null,
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "1.01",
+      "eur": "0.94",
       "eur_foil": null,
       "tix": null
     },
@@ -5726,11 +5722,11 @@
       },
       {
         "object": "related_card",
-        "id": "fcaf7d1e-9ebf-497e-9d0e-bd23d3bf2b12",
+        "id": "0ec86780-0a66-498c-b86b-1d1836532dd4",
         "component": "combo_piece",
         "name": "Goblin Goliath",
         "type_line": "Creature — Goblin Mutant",
-        "uri": "https://api.scryfall.com/cards/fcaf7d1e-9ebf-497e-9d0e-bd23d3bf2b12"
+        "uri": "https://api.scryfall.com/cards/0ec86780-0a66-498c-b86b-1d1836532dd4"
       },
       {
         "object": "related_card",
@@ -5758,11 +5754,11 @@
       },
       {
         "object": "related_card",
-        "id": "b4c4d642-c3fb-47d1-b57a-266eb269d5ea",
+        "id": "7d97d0c8-5c9a-4b04-a680-39ae3367367c",
         "component": "combo_piece",
         "name": "Goblin Offensive",
         "type_line": "Sorcery",
-        "uri": "https://api.scryfall.com/cards/b4c4d642-c3fb-47d1-b57a-266eb269d5ea"
+        "uri": "https://api.scryfall.com/cards/7d97d0c8-5c9a-4b04-a680-39ae3367367c"
       },
       {
         "object": "related_card",
@@ -5774,11 +5770,11 @@
       },
       {
         "object": "related_card",
-        "id": "fbd81c2e-9c0d-47b2-ba02-6f1dca1d96dc",
+        "id": "41d728ed-9fdf-4d92-bd97-66e27c139423",
         "component": "combo_piece",
         "name": "Empty the Warrens",
         "type_line": "Sorcery",
-        "uri": "https://api.scryfall.com/cards/fbd81c2e-9c0d-47b2-ba02-6f1dca1d96dc"
+        "uri": "https://api.scryfall.com/cards/41d728ed-9fdf-4d92-bd97-66e27c139423"
       },
       {
         "object": "related_card",
@@ -5798,11 +5794,11 @@
       },
       {
         "object": "related_card",
-        "id": "a9d80e96-3956-4408-84fb-5f94a364eb41",
+        "id": "b0e81bcf-d2f1-4ce0-9c1e-730632caa328",
         "component": "combo_piece",
         "name": "Goblinslide",
         "type_line": "Enchantment",
-        "uri": "https://api.scryfall.com/cards/a9d80e96-3956-4408-84fb-5f94a364eb41"
+        "uri": "https://api.scryfall.com/cards/b0e81bcf-d2f1-4ce0-9c1e-730632caa328"
       },
       {
         "object": "related_card",
@@ -5814,11 +5810,11 @@
       },
       {
         "object": "related_card",
-        "id": "8d8d27af-e4cf-4e18-825e-8f6c972e64ba",
+        "id": "36633f10-ea38-421c-ab80-9862eb18d6da",
         "component": "combo_piece",
         "name": "Sling-Gang Lieutenant",
         "type_line": "Creature — Goblin",
-        "uri": "https://api.scryfall.com/cards/8d8d27af-e4cf-4e18-825e-8f6c972e64ba"
+        "uri": "https://api.scryfall.com/cards/36633f10-ea38-421c-ab80-9862eb18d6da"
       },
       {
         "object": "related_card",
@@ -5862,11 +5858,11 @@
       },
       {
         "object": "related_card",
-        "id": "623c1d1b-69a4-4bc4-b388-17a7600fd960",
+        "id": "24025e76-0016-46a6-93cd-366071953c36",
         "component": "combo_piece",
         "name": "Swarming Goblins",
         "type_line": "Creature — Goblin",
-        "uri": "https://api.scryfall.com/cards/623c1d1b-69a4-4bc4-b388-17a7600fd960"
+        "uri": "https://api.scryfall.com/cards/24025e76-0016-46a6-93cd-366071953c36"
       },
       {
         "object": "related_card",
@@ -5894,27 +5890,27 @@
       },
       {
         "object": "related_card",
-        "id": "c069ebf8-5616-4cff-81d9-cd20b20102ee",
+        "id": "98be3783-23e8-4143-8685-6d887f164294",
         "component": "combo_piece",
         "name": "Goblin Gang Leader",
         "type_line": "Creature — Goblin Warrior",
-        "uri": "https://api.scryfall.com/cards/c069ebf8-5616-4cff-81d9-cd20b20102ee"
+        "uri": "https://api.scryfall.com/cards/98be3783-23e8-4143-8685-6d887f164294"
       },
       {
         "object": "related_card",
-        "id": "fc027246-1dd3-4be0-bea6-3a7476a833ce",
+        "id": "fd170aa1-18be-470e-aa36-bfb11e9f92c1",
         "component": "combo_piece",
         "name": "Mogg War Marshal",
         "type_line": "Creature — Goblin Warrior",
-        "uri": "https://api.scryfall.com/cards/fc027246-1dd3-4be0-bea6-3a7476a833ce"
+        "uri": "https://api.scryfall.com/cards/fd170aa1-18be-470e-aa36-bfb11e9f92c1"
       },
       {
         "object": "related_card",
-        "id": "b36a1bc7-a080-4fb6-b975-c59bb33a090a",
+        "id": "71c818eb-3846-471f-967a-76e1cb809b9f",
         "component": "combo_piece",
         "name": "Goblin Instigator",
         "type_line": "Creature — Goblin Rogue",
-        "uri": "https://api.scryfall.com/cards/b36a1bc7-a080-4fb6-b975-c59bb33a090a"
+        "uri": "https://api.scryfall.com/cards/71c818eb-3846-471f-967a-76e1cb809b9f"
       },
       {
         "object": "related_card",
@@ -5958,6 +5954,14 @@
       },
       {
         "object": "related_card",
+        "id": "e22c2df5-ae00-4d71-ac60-6ea402b9036b",
+        "component": "combo_piece",
+        "name": "Siege-Gang Lieutenant",
+        "type_line": "Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/e22c2df5-ae00-4d71-ac60-6ea402b9036b"
+      },
+      {
+        "object": "related_card",
         "id": "a5579dfb-4e63-4e7b-80c5-56949518c71e",
         "component": "combo_piece",
         "name": "Garbage Elemental",
@@ -5966,11 +5970,11 @@
       },
       {
         "object": "related_card",
-        "id": "c80c53a3-a2de-4e54-a50a-2eabb2ceb67c",
+        "id": "5183ca53-dc90-4971-a610-38b4ba85dc83",
         "component": "combo_piece",
         "name": "Hordeling Outburst",
         "type_line": "Sorcery",
-        "uri": "https://api.scryfall.com/cards/c80c53a3-a2de-4e54-a50a-2eabb2ceb67c"
+        "uri": "https://api.scryfall.com/cards/5183ca53-dc90-4971-a610-38b4ba85dc83"
       },
       {
         "object": "related_card",
@@ -6014,11 +6018,11 @@
       },
       {
         "object": "related_card",
-        "id": "bfeb1145-3729-481e-a314-c325ed2f2a35",
+        "id": "ef8b7992-d4d9-4d0f-9eca-5085588a4669",
         "component": "combo_piece",
         "name": "Mogg Infestation",
         "type_line": "Sorcery",
-        "uri": "https://api.scryfall.com/cards/bfeb1145-3729-481e-a314-c325ed2f2a35"
+        "uri": "https://api.scryfall.com/cards/ef8b7992-d4d9-4d0f-9eca-5085588a4669"
       },
       {
         "object": "related_card",
@@ -6038,19 +6042,19 @@
       },
       {
         "object": "related_card",
-        "id": "98b913e1-c26d-4a7d-9671-50d483304ba3",
+        "id": "0befe0f5-ff7c-441a-9bb2-cbe919be10ad",
         "component": "combo_piece",
         "name": "Siege-Gang Commander",
         "type_line": "Creature — Goblin",
-        "uri": "https://api.scryfall.com/cards/98b913e1-c26d-4a7d-9671-50d483304ba3"
+        "uri": "https://api.scryfall.com/cards/0befe0f5-ff7c-441a-9bb2-cbe919be10ad"
       },
       {
         "object": "related_card",
-        "id": "6d6adaa2-62ac-44f3-9665-8361135ccf6a",
+        "id": "2a17c97b-1195-4ca7-aa30-fe11585f180c",
         "component": "combo_piece",
         "name": "Battle Cry Goblin",
         "type_line": "Creature — Goblin",
-        "uri": "https://api.scryfall.com/cards/6d6adaa2-62ac-44f3-9665-8361135ccf6a"
+        "uri": "https://api.scryfall.com/cards/2a17c97b-1195-4ca7-aa30-fe11585f180c"
       },
       {
         "object": "related_card",
@@ -6198,7 +6202,7 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/0/8/08ca3900-3845-40ac-8581-d4aebc2850a0.jpg?1561756620"
     },
     "prices": {
-      "usd": "20.33",
+      "usd": "16.87",
       "usd_foil": null,
       "usd_etched": null,
       "eur": null,
@@ -6256,7 +6260,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 17435,
+    "edhrec_rank": 17947,
     "foil": false,
     "keywords": [
       "Flying",
@@ -6327,10 +6331,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/0/f/0f638ffc-20b3-4e8c-8f0a-0d034902bddd.jpg?1575571386"
     },
     "prices": {
-      "usd": "0.29",
+      "usd": "0.20",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.15",
+      "eur": "0.13",
       "eur_foil": null,
       "tix": "0.05"
     },
@@ -6379,7 +6383,7 @@
     "color_identity": [
       "B"
     ],
-    "edhrec_rank": 2042,
+    "edhrec_rank": 2089,
     "foil": true,
     "keywords": [],
     "layout": "normal",
@@ -6412,7 +6416,7 @@
     "nonfoil": false,
     "oracle_text": "Put X -1/-1 counters on each creature. Shuffle Black Sun's Zenith into its owner's library.",
     "oversized": false,
-    "penny_rank": 1924,
+    "penny_rank": 1991,
     "reserved": false,
     "type_line": "Sorcery",
     "artist": "James Paick",
@@ -6445,10 +6449,10 @@
     },
     "prices": {
       "usd": null,
-      "usd_foil": "18.54",
+      "usd_foil": "16.52",
       "usd_etched": null,
       "eur": null,
-      "eur_foil": "9.85",
+      "eur_foil": "9.33",
       "tix": null
     },
     "promo": true,
@@ -6559,10 +6563,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/76e5383d-ac12-4abc-aa30-15e99ded2d6f.jpg?1677544167"
     },
     "prices": {
-      "usd": "18.43",
+      "usd": "23.64",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "22.62",
+      "eur": "22.66",
       "eur_foil": null,
       "tix": null
     },
@@ -6611,7 +6615,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 12895,
+    "edhrec_rank": 13884,
     "foil": true,
     "keywords": [
       "Bolster"
@@ -6646,7 +6650,7 @@
     "nonfoil": false,
     "oracle_text": "At the beginning of your end step, bolster X, where X is the number of tapped creatures you control. (Choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)",
     "oversized": false,
-    "penny_rank": 13414,
+    "penny_rank": 13688,
     "power": "2",
     "reserved": false,
     "toughness": "3",
@@ -6682,10 +6686,10 @@
     },
     "prices": {
       "usd": null,
-      "usd_foil": "0.51",
+      "usd_foil": "0.53",
       "usd_etched": null,
       "eur": null,
-      "eur_foil": "0.50",
+      "eur_foil": "0.55",
       "tix": null
     },
     "promo": true,
@@ -6738,7 +6742,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 12895,
+    "edhrec_rank": 13884,
     "foil": true,
     "keywords": [
       "Bolster"
@@ -6773,7 +6777,7 @@
     "nonfoil": false,
     "oracle_text": "At the beginning of your end step, bolster X, where X is the number of tapped creatures you control. (Choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)",
     "oversized": false,
-    "penny_rank": 13414,
+    "penny_rank": 13688,
     "power": "2",
     "reserved": false,
     "toughness": "3",
@@ -6809,10 +6813,10 @@
     },
     "prices": {
       "usd": null,
-      "usd_foil": "0.39",
+      "usd_foil": "0.50",
       "usd_etched": null,
       "eur": null,
-      "eur_foil": "1.09",
+      "eur_foil": "0.93",
       "tix": null
     },
     "promo": true,
@@ -6928,10 +6932,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/57f25ead-b3ec-4c40-972d-d750ed2f5319.jpg?1549805757"
     },
     "prices": {
-      "usd": "8.73",
+      "usd": "9.05",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "1.50",
+      "eur": "1.63",
       "eur_foil": null,
       "tix": null
     },
@@ -6981,7 +6985,7 @@
     "cmc": 0.0,
     "colors": [],
     "color_identity": [],
-    "edhrec_rank": 8795,
+    "edhrec_rank": 9182,
     "foil": false,
     "keywords": [
       "Fight"
@@ -7016,7 +7020,7 @@
     "nonfoil": true,
     "oracle_text": "{3}, {T}: Tap target creature you control and target creature of an opponent's choice they control. Those creatures fight each other. (Each deals damage equal to its power to the other.)",
     "oversized": false,
-    "penny_rank": 7363,
+    "penny_rank": 7471,
     "reserved": false,
     "type_line": "Land",
     "artist": "Rob Alexander",
@@ -7040,18 +7044,18 @@
     "illustration_id": "5de809a1-34f1-44ef-856d-dc2fa1db6b98",
     "image_status": "highres_scan",
     "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/2/f/2f989fda-2e54-427c-9154-4820c48abb02.jpg?1561756864",
-      "normal": "https://cards.scryfall.io/normal/front/2/f/2f989fda-2e54-427c-9154-4820c48abb02.jpg?1561756864",
-      "large": "https://cards.scryfall.io/large/front/2/f/2f989fda-2e54-427c-9154-4820c48abb02.jpg?1561756864",
-      "png": "https://cards.scryfall.io/png/front/2/f/2f989fda-2e54-427c-9154-4820c48abb02.png?1561756864",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/2/f/2f989fda-2e54-427c-9154-4820c48abb02.jpg?1561756864",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/2/f/2f989fda-2e54-427c-9154-4820c48abb02.jpg?1561756864"
+      "small": "https://cards.scryfall.io/small/front/2/f/2f989fda-2e54-427c-9154-4820c48abb02.jpg?1722463351",
+      "normal": "https://cards.scryfall.io/normal/front/2/f/2f989fda-2e54-427c-9154-4820c48abb02.jpg?1722463351",
+      "large": "https://cards.scryfall.io/large/front/2/f/2f989fda-2e54-427c-9154-4820c48abb02.jpg?1722463351",
+      "png": "https://cards.scryfall.io/png/front/2/f/2f989fda-2e54-427c-9154-4820c48abb02.png?1722463351",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/f/2f989fda-2e54-427c-9154-4820c48abb02.jpg?1722463351",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/f/2f989fda-2e54-427c-9154-4820c48abb02.jpg?1722463351"
     },
     "prices": {
-      "usd": "8.32",
+      "usd": "7.89",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "4.80",
+      "eur": "4.60",
       "eur_foil": null,
       "tix": null
     },
@@ -7071,8 +7075,8 @@
       "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DArena",
       "edhrec": "https://edhrec.com/route/?cc=Arena"
     },
-    "released_at": "1994-09-01",
-    "reprint": true,
+    "released_at": "1994-11-01",
+    "reprint": false,
     "scryfall_set_uri": "https://scryfall.com/sets/phpr?utm_source=api",
     "set_name": "HarperPrism Book Promos",
     "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphpr&unique=prints",
@@ -7114,7 +7118,6 @@
         "object": "card_face",
         "artist": "John Avon",
         "artist_id": "798f3932-30e0-4420-aa3f-db4d613f89ca",
-        "flavor_name": "",
         "mana_cost": "{5}{R}",
         "name": "Bust",
         "oracle_text": "Destroy all lands.",
@@ -7128,7 +7131,7 @@
     "color_identity": [
       "R"
     ],
-    "edhrec_rank": 9635,
+    "edhrec_rank": 10234,
     "foil": true,
     "keywords": [],
     "layout": "split",
@@ -7144,7 +7147,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "legal",
+      "penny": "not_legal",
       "commander": "legal",
       "oathbreaker": "legal",
       "standardbrawl": "not_legal",
@@ -7160,7 +7163,7 @@
     "name": "Boom // Bust",
     "nonfoil": true,
     "oversized": false,
-    "penny_rank": 648,
+    "penny_rank": 814,
     "reserved": false,
     "type_line": "Sorcery // Sorcery",
     "artist": "John Avon",
@@ -7194,11 +7197,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/7/c/7ce986a4-5f82-4e7e-bef5-b49f05bf96a6.jpg?1562575287"
     },
     "prices": {
-      "usd": "1.85",
-      "usd_foil": "11.21",
+      "usd": "5.93",
+      "usd_foil": "13.12",
       "usd_etched": null,
-      "eur": "0.71",
-      "eur_foil": "5.70",
+      "eur": "1.21",
+      "eur_foil": "5.78",
       "tix": "0.03"
     },
     "promo": false,
@@ -7254,7 +7257,7 @@
       "U",
       "W"
     ],
-    "edhrec_rank": 13500,
+    "edhrec_rank": 14357,
     "foil": true,
     "keywords": [],
     "layout": "normal",
@@ -7287,7 +7290,7 @@
     "nonfoil": true,
     "oracle_text": "{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.",
     "oversized": false,
-    "penny_rank": 9839,
+    "penny_rank": 10067,
     "power": "3",
     "reserved": false,
     "toughness": "4",
@@ -7324,12 +7327,12 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/66b950d9-8fef-4deb-b51b-26edb90abc56.jpg?1586450720"
     },
     "prices": {
-      "usd": "1.24",
-      "usd_foil": "44.99",
+      "usd": "1.17",
+      "usd_foil": "41.14",
       "usd_etched": null,
-      "eur": "1.01",
-      "eur_foil": "76.43",
-      "tix": "0.03"
+      "eur": "0.81",
+      "eur_foil": "73.06",
+      "tix": "0.02"
     },
     "promo": false,
     "purchase_uris": {
@@ -7382,7 +7385,7 @@
       "U",
       "W"
     ],
-    "edhrec_rank": 13500,
+    "edhrec_rank": 14357,
     "foil": true,
     "keywords": [],
     "layout": "normal",
@@ -7415,7 +7418,7 @@
     "nonfoil": false,
     "oracle_text": "{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.",
     "oversized": false,
-    "penny_rank": 9839,
+    "penny_rank": 10067,
     "power": "3",
     "reserved": false,
     "toughness": "4",
@@ -7486,6 +7489,613 @@
   },
   {
     "object": "card",
+    "id": "c9d6af7b-41a5-4077-81ed-7560548dcf3e",
+    "lang": "en",
+    "multiverse_ids": [],
+    "tcgplayer_id": 262885,
+    "cardmarket_id": 609517,
+    "oracle_id": "7246d45b-2185-4cdd-981b-5419b7d52bce",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7246d45b-2185-4cdd-981b-5419b7d52bce&unique=prints",
+    "rulings_uri": "https://api.scryfall.com/cards/c9d6af7b-41a5-4077-81ed-7560548dcf3e/rulings",
+    "scryfall_uri": "https://scryfall.com/card/plst/AKH-2/anointed-procession?utm_source=api",
+    "uri": "https://api.scryfall.com/cards/c9d6af7b-41a5-4077-81ed-7560548dcf3e",
+    "cmc": 4.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "edhrec_rank": 265,
+    "foil": false,
+    "keywords": [],
+    "layout": "normal",
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "explorer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "mana_cost": "{3}{W}",
+    "name": "Anointed Procession",
+    "nonfoil": true,
+    "oracle_text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.",
+    "oversized": false,
+    "penny_rank": 5164,
+    "reserved": false,
+    "type_line": "Enchantment",
+    "artist": "Victor Adame Minguez",
+    "artist_ids": [
+      "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+    ],
+    "booster": true,
+    "border_color": "black",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "collector_number": "AKH-2",
+    "digital": false,
+    "finishes": [
+      "nonfoil"
+    ],
+    "flavor_text": "\"The gods here may walk among the people, but they are not with them.\"\n—Gideon Jura",
+    "frame": "2015",
+    "full_art": false,
+    "games": [
+      "paper"
+    ],
+    "highres_image": true,
+    "illustration_id": "7aecf9a4-6c84-4aca-ab91-62ee479b9e08",
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/9/c9d6af7b-41a5-4077-81ed-7560548dcf3e.jpg?1643939169",
+      "normal": "https://cards.scryfall.io/normal/front/c/9/c9d6af7b-41a5-4077-81ed-7560548dcf3e.jpg?1643939169",
+      "large": "https://cards.scryfall.io/large/front/c/9/c9d6af7b-41a5-4077-81ed-7560548dcf3e.jpg?1643939169",
+      "png": "https://cards.scryfall.io/png/front/c/9/c9d6af7b-41a5-4077-81ed-7560548dcf3e.png?1643939169",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c9d6af7b-41a5-4077-81ed-7560548dcf3e.jpg?1643939169",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c9d6af7b-41a5-4077-81ed-7560548dcf3e.jpg?1643939169"
+    },
+    "prices": {
+      "usd": "53.12",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": "40.72",
+      "eur_foil": null,
+      "tix": null
+    },
+    "promo": false,
+    "purchase_uris": {
+      "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F262885%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/The-List/Anointed-Procession?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Anointed+Procession&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    },
+    "rarity": "rare",
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession",
+      "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointed%2BProcession",
+      "edhrec": "https://edhrec.com/route/?cc=Anointed+Procession"
+    },
+    "released_at": "2022-02-18",
+    "reprint": true,
+    "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+    "set_name": "The List",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+    "set_type": "masters",
+    "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+    "set": "plst",
+    "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+    "story_spotlight": true,
+    "textless": false,
+    "variation": false,
+    "security_stamp": "oval",
+    "watermark": "planeswalker"
+  },
+  {
+    "object": "card",
+    "id": "46f810c2-310e-42f5-ab1f-d56396cf5124",
+    "lang": "en",
+    "multiverse_ids": [],
+    "tcgplayer_id": 222423,
+    "cardmarket_id": 497615,
+    "oracle_id": "4e0b9273-6614-41a8-9738-959349c0717b",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4e0b9273-6614-41a8-9738-959349c0717b&unique=prints",
+    "rulings_uri": "https://api.scryfall.com/cards/46f810c2-310e-42f5-ab1f-d56396cf5124/rulings",
+    "scryfall_uri": "https://scryfall.com/card/plst/AKH-3/anointer-priest?utm_source=api",
+    "uri": "https://api.scryfall.com/cards/46f810c2-310e-42f5-ab1f-d56396cf5124",
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "46f810c2-310e-42f5-ab1f-d56396cf5124",
+        "component": "combo_piece",
+        "name": "Anointer Priest",
+        "type_line": "Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/46f810c2-310e-42f5-ab1f-d56396cf5124"
+      },
+      {
+        "object": "related_card",
+        "id": "98956e73-04e4-4d7f-bda5-cfa78eb71350",
+        "component": "token",
+        "name": "Anointer Priest",
+        "type_line": "Token Creature — Zombie Human Cleric",
+        "uri": "https://api.scryfall.com/cards/98956e73-04e4-4d7f-bda5-cfa78eb71350"
+      }
+    ],
+    "cmc": 2.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "edhrec_rank": 9080,
+    "foil": false,
+    "keywords": [
+      "Embalm"
+    ],
+    "layout": "normal",
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "explorer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "mana_cost": "{1}{W}",
+    "name": "Anointer Priest",
+    "nonfoil": true,
+    "oracle_text": "Whenever a creature token you control enters, you gain 1 life.\nEmbalm {3}{W} ({3}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)",
+    "oversized": false,
+    "penny_rank": 3854,
+    "power": "1",
+    "reserved": false,
+    "toughness": "3",
+    "type_line": "Creature — Human Cleric",
+    "artist": "Lake Hurwitz",
+    "artist_ids": [
+      "3677c64b-55e6-4a0d-a952-bdbb05531220"
+    ],
+    "booster": true,
+    "border_color": "black",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "collector_number": "AKH-3",
+    "digital": false,
+    "finishes": [
+      "nonfoil"
+    ],
+    "frame": "2015",
+    "full_art": false,
+    "games": [
+      "paper"
+    ],
+    "highres_image": true,
+    "illustration_id": "37174da0-47dc-4b29-8481-e831d4a36196",
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/6/46f810c2-310e-42f5-ab1f-d56396cf5124.jpg?1599769231",
+      "normal": "https://cards.scryfall.io/normal/front/4/6/46f810c2-310e-42f5-ab1f-d56396cf5124.jpg?1599769231",
+      "large": "https://cards.scryfall.io/large/front/4/6/46f810c2-310e-42f5-ab1f-d56396cf5124.jpg?1599769231",
+      "png": "https://cards.scryfall.io/png/front/4/6/46f810c2-310e-42f5-ab1f-d56396cf5124.png?1599769231",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/6/46f810c2-310e-42f5-ab1f-d56396cf5124.jpg?1599769231",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/6/46f810c2-310e-42f5-ab1f-d56396cf5124.jpg?1599769231"
+    },
+    "prices": {
+      "usd": "0.19",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": "0.29",
+      "eur_foil": null,
+      "tix": null
+    },
+    "promo": false,
+    "purchase_uris": {
+      "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F222423%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/The-List/Anointer-Priest?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Anointer+Priest&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    },
+    "rarity": "common",
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointer%2BPriest",
+      "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAnointer%2BPriest",
+      "edhrec": "https://edhrec.com/route/?cc=Anointer+Priest"
+    },
+    "released_at": "2020-09-01",
+    "reprint": true,
+    "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+    "set_name": "The List",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+    "set_type": "masters",
+    "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+    "set": "plst",
+    "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+    "story_spotlight": false,
+    "textless": false,
+    "variation": false
+  },
+  {
+    "object": "card",
+    "id": "013e68be-daf9-409b-aab8-caf51f1cada3",
+    "lang": "en",
+    "multiverse_ids": [],
+    "tcgplayer_id": 526525,
+    "oracle_id": "49a8ca54-30d3-42d3-b122-334d24805e1b",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A49a8ca54-30d3-42d3-b122-334d24805e1b&unique=prints",
+    "rulings_uri": "https://api.scryfall.com/cards/013e68be-daf9-409b-aab8-caf51f1cada3/rulings",
+    "scryfall_uri": "https://scryfall.com/card/plst/ARB-1/ardent-plea?utm_source=api",
+    "uri": "https://api.scryfall.com/cards/013e68be-daf9-409b-aab8-caf51f1cada3",
+    "cmc": 3.0,
+    "colors": [
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "edhrec_rank": 12999,
+    "foil": false,
+    "keywords": [
+      "Exalted",
+      "Cascade"
+    ],
+    "layout": "normal",
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "explorer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "mana_cost": "{1}{W}{U}",
+    "name": "Ardent Plea",
+    "nonfoil": true,
+    "oracle_text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+    "oversized": false,
+    "penny_rank": 1072,
+    "reserved": false,
+    "type_line": "Enchantment",
+    "artist": "Chippy",
+    "artist_ids": [
+      "a36f01a0-e51a-48b2-a556-b9b3bc73f969"
+    ],
+    "booster": true,
+    "border_color": "black",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "collector_number": "ARB-1",
+    "digital": false,
+    "finishes": [
+      "nonfoil"
+    ],
+    "frame": "2003",
+    "full_art": false,
+    "games": [
+      "paper"
+    ],
+    "highres_image": true,
+    "illustration_id": "0805f298-026a-495b-8a4f-0aeb1522550a",
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/1/013e68be-daf9-409b-aab8-caf51f1cada3.jpg?1699878392",
+      "normal": "https://cards.scryfall.io/normal/front/0/1/013e68be-daf9-409b-aab8-caf51f1cada3.jpg?1699878392",
+      "large": "https://cards.scryfall.io/large/front/0/1/013e68be-daf9-409b-aab8-caf51f1cada3.jpg?1699878392",
+      "png": "https://cards.scryfall.io/png/front/0/1/013e68be-daf9-409b-aab8-caf51f1cada3.png?1699878392",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/013e68be-daf9-409b-aab8-caf51f1cada3.jpg?1699878392",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/013e68be-daf9-409b-aab8-caf51f1cada3.jpg?1699878392"
+    },
+    "prices": {
+      "usd": "6.99",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "promo": false,
+    "purchase_uris": {
+      "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526525%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ardent+Plea&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ardent+Plea&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    },
+    "rarity": "uncommon",
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DArdent%2BPlea",
+      "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DArdent%2BPlea",
+      "edhrec": "https://edhrec.com/route/?cc=Ardent+Plea"
+    },
+    "released_at": "2023-11-17",
+    "reprint": true,
+    "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+    "set_name": "The List",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+    "set_type": "masters",
+    "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+    "set": "plst",
+    "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+    "story_spotlight": false,
+    "textless": false,
+    "variation": false
+  },
+  {
+    "object": "card",
+    "id": "57dffddd-07c3-42f4-b924-3e833eda5edd",
+    "lang": "en",
+    "multiverse_ids": [],
+    "tcgplayer_id": 480156,
+    "oracle_id": "b59053d5-b5f2-44aa-a29c-7f3908d86577",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab59053d5-b5f2-44aa-a29c-7f3908d86577&unique=prints",
+    "rulings_uri": "https://api.scryfall.com/cards/57dffddd-07c3-42f4-b924-3e833eda5edd/rulings",
+    "scryfall_uri": "https://scryfall.com/card/plst/10E-20/high-ground?utm_source=api",
+    "uri": "https://api.scryfall.com/cards/57dffddd-07c3-42f4-b924-3e833eda5edd",
+    "cmc": 1.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "edhrec_rank": 16070,
+    "foil": false,
+    "keywords": [],
+    "layout": "normal",
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "explorer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "mana_cost": "{W}",
+    "name": "High Ground",
+    "nonfoil": true,
+    "oracle_text": "Each creature you control can block an additional creature each combat.",
+    "oversized": false,
+    "penny_rank": 15281,
+    "reserved": false,
+    "type_line": "Enchantment",
+    "artist": "rk post",
+    "artist_ids": [
+      "81ae0f3f-1d88-4125-9aeb-b15b4c734c82"
+    ],
+    "booster": true,
+    "border_color": "black",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "collector_number": "10E-20",
+    "digital": false,
+    "finishes": [
+      "nonfoil"
+    ],
+    "flavor_text": "In war, as in society, position is everything.",
+    "frame": "2003",
+    "full_art": false,
+    "games": [
+      "paper"
+    ],
+    "highres_image": true,
+    "illustration_id": "c3998375-78f7-4e56-bfcd-af3fbec94bbe",
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/7/57dffddd-07c3-42f4-b924-3e833eda5edd.jpg?1674047029",
+      "normal": "https://cards.scryfall.io/normal/front/5/7/57dffddd-07c3-42f4-b924-3e833eda5edd.jpg?1674047029",
+      "large": "https://cards.scryfall.io/large/front/5/7/57dffddd-07c3-42f4-b924-3e833eda5edd.jpg?1674047029",
+      "png": "https://cards.scryfall.io/png/front/5/7/57dffddd-07c3-42f4-b924-3e833eda5edd.png?1674047029",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/57dffddd-07c3-42f4-b924-3e833eda5edd.jpg?1674047029",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/57dffddd-07c3-42f4-b924-3e833eda5edd.jpg?1674047029"
+    },
+    "prices": {
+      "usd": "0.11",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "promo": false,
+    "purchase_uris": {
+      "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F480156%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=High+Ground&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=High+Ground&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    },
+    "rarity": "uncommon",
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DHigh%2BGround",
+      "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DHigh%2BGround",
+      "edhrec": "https://edhrec.com/route/?cc=High+Ground"
+    },
+    "released_at": "2023-02-10",
+    "reprint": true,
+    "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+    "set_name": "The List",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+    "set_type": "masters",
+    "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+    "set": "plst",
+    "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+    "story_spotlight": false,
+    "textless": false,
+    "variation": false
+  },
+  {
+    "object": "card",
+    "id": "f8c2f285-141b-479b-aca6-ceacf60e3f6a",
+    "lang": "en",
+    "multiverse_ids": [],
+    "oracle_id": "b81f041d-98db-4408-9472-c483e4a502bc",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab81f041d-98db-4408-9472-c483e4a502bc&unique=prints",
+    "rulings_uri": "https://api.scryfall.com/cards/f8c2f285-141b-479b-aca6-ceacf60e3f6a/rulings",
+    "scryfall_uri": "https://scryfall.com/card/plst/10E-182/terror?utm_source=api",
+    "uri": "https://api.scryfall.com/cards/f8c2f285-141b-479b-aca6-ceacf60e3f6a",
+    "cmc": 2.0,
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "edhrec_rank": 7244,
+    "foil": false,
+    "keywords": [],
+    "layout": "normal",
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "explorer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "mana_cost": "{1}{B}",
+    "name": "Terror",
+    "nonfoil": true,
+    "oracle_text": "Destroy target nonartifact, nonblack creature. It can't be regenerated.",
+    "oversized": false,
+    "penny_rank": 1813,
+    "reserved": false,
+    "type_line": "Instant",
+    "artist": "Adam Rex",
+    "artist_ids": [
+      "445bd2fb-4a70-4599-87a4-83cf5979fc56"
+    ],
+    "booster": true,
+    "border_color": "black",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "collector_number": "10E-182",
+    "digital": false,
+    "finishes": [
+      "nonfoil"
+    ],
+    "frame": "2003",
+    "full_art": false,
+    "games": [
+      "paper"
+    ],
+    "highres_image": true,
+    "illustration_id": "df18a88d-c202-418b-a07d-d550abfc021a",
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/8/f8c2f285-141b-479b-aca6-ceacf60e3f6a.jpg?1723432855",
+      "normal": "https://cards.scryfall.io/normal/front/f/8/f8c2f285-141b-479b-aca6-ceacf60e3f6a.jpg?1723432855",
+      "large": "https://cards.scryfall.io/large/front/f/8/f8c2f285-141b-479b-aca6-ceacf60e3f6a.jpg?1723432855",
+      "png": "https://cards.scryfall.io/png/front/f/8/f8c2f285-141b-479b-aca6-ceacf60e3f6a.png?1723432855",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/8/f8c2f285-141b-479b-aca6-ceacf60e3f6a.jpg?1723432855",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/8/f8c2f285-141b-479b-aca6-ceacf60e3f6a.jpg?1723432855"
+    },
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "promo": false,
+    "purchase_uris": {
+      "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTerror%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Terror&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Terror&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    },
+    "rarity": "common",
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DTerror",
+      "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DTerror",
+      "edhrec": "https://edhrec.com/route/?cc=Terror"
+    },
+    "released_at": "2024-08-02",
+    "reprint": true,
+    "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+    "set_name": "The List",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+    "set_type": "masters",
+    "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+    "set": "plst",
+    "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+    "story_spotlight": false,
+    "textless": false,
+    "variation": false
+  },
+  {
+    "object": "card",
     "id": "8829efa0-498a-43ca-91aa-f9caeeafe298",
     "lang": "en",
     "multiverse_ids": [],
@@ -7521,7 +8131,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 1823,
+    "edhrec_rank": 1899,
     "foil": true,
     "keywords": [
       "Battle Cry"
@@ -7556,7 +8166,7 @@
     "nonfoil": false,
     "oracle_text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)\nWhenever Hero of Bladehold attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking.",
     "oversized": false,
-    "penny_rank": 2848,
+    "penny_rank": 3455,
     "power": "3",
     "reserved": false,
     "toughness": "4",
@@ -7591,10 +8201,10 @@
     },
     "prices": {
       "usd": null,
-      "usd_foil": "4.77",
+      "usd_foil": "5.80",
       "usd_etched": null,
       "eur": null,
-      "eur_foil": "3.03",
+      "eur_foil": "2.70",
       "tix": null
     },
     "promo": true,
@@ -7645,15 +8255,15 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 85,
+    "edhrec_rank": 84,
     "foil": true,
     "keywords": [
       "Channel"
     ],
     "layout": "normal",
     "legalities": {
-      "standard": "legal",
-      "future": "legal",
+      "standard": "not_legal",
+      "future": "not_legal",
       "historic": "legal",
       "timeless": "legal",
       "gladiator": "legal",
@@ -7666,7 +8276,7 @@
       "penny": "not_legal",
       "commander": "legal",
       "oathbreaker": "legal",
-      "standardbrawl": "legal",
+      "standardbrawl": "not_legal",
       "brawl": "legal",
       "alchemy": "not_legal",
       "paupercommander": "not_legal",
@@ -7718,11 +8328,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/d/d/dda82840-1f3f-4be7-9bc7-66ff551ef5c0.jpg?1675617053"
     },
     "prices": {
-      "usd": "34.28",
-      "usd_foil": "36.43",
+      "usd": "31.41",
+      "usd_foil": "33.22",
       "usd_etched": null,
-      "eur": "31.14",
-      "eur_foil": "34.97",
+      "eur": "32.57",
+      "eur_foil": "35.75",
       "tix": null
     },
     "promo": true,
@@ -7772,15 +8382,15 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 85,
+    "edhrec_rank": 84,
     "foil": true,
     "keywords": [
       "Channel"
     ],
     "layout": "normal",
     "legalities": {
-      "standard": "legal",
-      "future": "legal",
+      "standard": "not_legal",
+      "future": "not_legal",
       "historic": "legal",
       "timeless": "legal",
       "gladiator": "legal",
@@ -7793,7 +8403,7 @@
       "penny": "not_legal",
       "commander": "legal",
       "oathbreaker": "legal",
-      "standardbrawl": "legal",
+      "standardbrawl": "not_legal",
       "brawl": "legal",
       "alchemy": "not_legal",
       "paupercommander": "not_legal",
@@ -7845,10 +8455,10 @@
     },
     "prices": {
       "usd": null,
-      "usd_foil": "47.12",
+      "usd_foil": "46.12",
       "usd_etched": null,
       "eur": null,
-      "eur_foil": "45.89",
+      "eur_foil": "42.11",
       "tix": null
     },
     "promo": true,
@@ -7918,7 +8528,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 4705,
+    "edhrec_rank": 4983,
     "foil": true,
     "keywords": [
       "Afterlife"
@@ -7953,7 +8563,7 @@
     "nonfoil": true,
     "oracle_text": "During your turn, spells your opponents cast cost {1} more to cast and abilities your opponents activate cost {1} more to activate unless they're mana abilities.\nAfterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)",
     "oversized": false,
-    "penny_rank": 2078,
+    "penny_rank": 2218,
     "power": "2",
     "reserved": false,
     "toughness": "1",
@@ -7988,11 +8598,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/8/4/848d4dae-1e51-446f-bad0-cdf852970486.jpg?1570827724"
     },
     "prices": {
-      "usd": "0.72",
-      "usd_foil": "1.65",
+      "usd": "0.62",
+      "usd_foil": "1.37",
       "usd_etched": null,
-      "eur": "0.49",
-      "eur_foil": "0.92",
+      "eur": "0.48",
+      "eur_foil": "0.79",
       "tix": null
     },
     "promo": true,
@@ -8064,7 +8674,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 4705,
+    "edhrec_rank": 4983,
     "foil": true,
     "keywords": [
       "Afterlife"
@@ -8099,7 +8709,7 @@
     "nonfoil": false,
     "oracle_text": "During your turn, spells your opponents cast cost {1} more to cast and abilities your opponents activate cost {1} more to activate unless they're mana abilities.\nAfterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)",
     "oversized": false,
-    "penny_rank": 2078,
+    "penny_rank": 2218,
     "power": "2",
     "reserved": false,
     "toughness": "1",
@@ -8134,10 +8744,10 @@
     },
     "prices": {
       "usd": null,
-      "usd_foil": "2.39",
+      "usd_foil": "2.22",
       "usd_etched": null,
       "eur": null,
-      "eur_foil": "1.47",
+      "eur_foil": "1.58",
       "tix": null
     },
     "promo": true,
@@ -8256,10 +8866,10 @@
     },
     "prices": {
       "usd": null,
-      "usd_foil": "2.64",
+      "usd_foil": "2.67",
       "usd_etched": null,
       "eur": null,
-      "eur_foil": "1.74",
+      "eur_foil": "2.04",
       "tix": null
     },
     "promo": true,
@@ -8377,10 +8987,10 @@
     },
     "prices": {
       "usd": null,
-      "usd_foil": "3.88",
+      "usd_foil": "3.87",
       "usd_etched": null,
       "eur": null,
-      "eur_foil": "2.79",
+      "eur_foil": "2.73",
       "tix": null
     },
     "promo": true,
@@ -8462,7 +9072,6 @@
         "colors": [
           "B"
         ],
-        "flavor_name": "",
         "illustration_id": "a18eb5e3-0043-4d97-ba49-163db9e70df3",
         "image_uris": {
           "small": "https://cards.scryfall.io/small/back/5/6/5646ea19-0025-4f88-ad22-36968a1d3b89.jpg?1660203798",
@@ -8543,10 +9152,10 @@
     "image_status": "highres_scan",
     "prices": {
       "usd": null,
-      "usd_foil": "83.18",
+      "usd_foil": "88.50",
       "usd_etched": null,
       "eur": null,
-      "eur_foil": "148.63",
+      "eur_foil": "159.28",
       "tix": null
     },
     "promo": true,
@@ -8594,7 +9203,7 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 133,
+    "edhrec_rank": 151,
     "foil": false,
     "keywords": [],
     "layout": "normal",
@@ -8627,7 +9236,7 @@
     "nonfoil": true,
     "oracle_text": "At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.",
     "oversized": false,
-    "penny_rank": 117,
+    "penny_rank": 120,
     "reserved": false,
     "type_line": "Enchantment",
     "artist": "Harold McNeill",
@@ -8659,10 +9268,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/8/1/81917a2b-9bf6-4aa6-947d-36b0f45d6fe3.jpg?1562919020"
     },
     "prices": {
-      "usd": "55.01",
+      "usd": "43.86",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "24.93",
+      "eur": "28.15",
       "eur_foil": null,
       "tix": null
     },
@@ -8733,7 +9342,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 4705,
+    "edhrec_rank": 4983,
     "foil": true,
     "keywords": [
       "Afterlife"
@@ -8768,7 +9377,7 @@
     "nonfoil": true,
     "oracle_text": "During your turn, spells your opponents cast cost {1} more to cast and abilities your opponents activate cost {1} more to activate unless they're mana abilities.\nAfterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)",
     "oversized": false,
-    "penny_rank": 2078,
+    "penny_rank": 2218,
     "power": "2",
     "reserved": false,
     "toughness": "1",
@@ -8805,11 +9414,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/b/d/bd26b7b1-992d-4b8c-bc33-51aab5abdf98.jpg?1584830069"
     },
     "prices": {
-      "usd": "0.31",
-      "usd_foil": "1.11",
+      "usd": "0.24",
+      "usd_foil": "1.21",
       "usd_etched": null,
-      "eur": "0.40",
-      "eur_foil": "1.46",
+      "eur": "0.28",
+      "eur_foil": "1.64",
       "tix": "0.02"
     },
     "promo": false,
@@ -8864,7 +9473,7 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 17571,
+    "edhrec_rank": 18548,
     "foil": true,
     "keywords": [],
     "layout": "normal",
@@ -8897,7 +9506,7 @@
     "nonfoil": false,
     "oracle_text": "You may have Rhox assign its combat damage as though it weren't blocked.\n{2}{G}: Regenerate Rhox. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
     "oversized": false,
-    "penny_rank": 12962,
+    "penny_rank": 14204,
     "power": "5",
     "reserved": false,
     "toughness": "5",
@@ -8932,10 +9541,10 @@
     },
     "prices": {
       "usd": null,
-      "usd_foil": "0.47",
+      "usd_foil": "0.58",
       "usd_etched": null,
       "eur": null,
-      "eur_foil": "0.90",
+      "eur_foil": "0.76",
       "tix": null
     },
     "promo": true,
@@ -9025,7 +9634,7 @@
       }
     ],
     "color_identity": [],
-    "edhrec_rank": 2913,
+    "edhrec_rank": 2953,
     "foil": true,
     "keywords": [],
     "layout": "reversible_card",
@@ -9056,7 +9665,7 @@
     "name": "Doubling Cube // Doubling Cube",
     "nonfoil": true,
     "oversized": false,
-    "penny_rank": 8999,
+    "penny_rank": 9182,
     "reserved": false,
     "artist": "Volta Creation",
     "artist_ids": [
@@ -9078,8 +9687,8 @@
     "highres_image": true,
     "image_status": "highres_scan",
     "prices": {
-      "usd": "17.24",
-      "usd_foil": "17.33",
+      "usd": "17.01",
+      "usd_foil": "16.97",
       "usd_etched": null,
       "eur": null,
       "eur_foil": null,
@@ -9168,11 +9777,11 @@
       },
       {
         "object": "related_card",
-        "id": "fcaf7d1e-9ebf-497e-9d0e-bd23d3bf2b12",
+        "id": "0ec86780-0a66-498c-b86b-1d1836532dd4",
         "component": "combo_piece",
         "name": "Goblin Goliath",
         "type_line": "Creature — Goblin Mutant",
-        "uri": "https://api.scryfall.com/cards/fcaf7d1e-9ebf-497e-9d0e-bd23d3bf2b12"
+        "uri": "https://api.scryfall.com/cards/0ec86780-0a66-498c-b86b-1d1836532dd4"
       },
       {
         "object": "related_card",
@@ -9200,11 +9809,11 @@
       },
       {
         "object": "related_card",
-        "id": "b4c4d642-c3fb-47d1-b57a-266eb269d5ea",
+        "id": "7d97d0c8-5c9a-4b04-a680-39ae3367367c",
         "component": "combo_piece",
         "name": "Goblin Offensive",
         "type_line": "Sorcery",
-        "uri": "https://api.scryfall.com/cards/b4c4d642-c3fb-47d1-b57a-266eb269d5ea"
+        "uri": "https://api.scryfall.com/cards/7d97d0c8-5c9a-4b04-a680-39ae3367367c"
       },
       {
         "object": "related_card",
@@ -9216,11 +9825,11 @@
       },
       {
         "object": "related_card",
-        "id": "fbd81c2e-9c0d-47b2-ba02-6f1dca1d96dc",
+        "id": "41d728ed-9fdf-4d92-bd97-66e27c139423",
         "component": "combo_piece",
         "name": "Empty the Warrens",
         "type_line": "Sorcery",
-        "uri": "https://api.scryfall.com/cards/fbd81c2e-9c0d-47b2-ba02-6f1dca1d96dc"
+        "uri": "https://api.scryfall.com/cards/41d728ed-9fdf-4d92-bd97-66e27c139423"
       },
       {
         "object": "related_card",
@@ -9240,11 +9849,11 @@
       },
       {
         "object": "related_card",
-        "id": "a9d80e96-3956-4408-84fb-5f94a364eb41",
+        "id": "b0e81bcf-d2f1-4ce0-9c1e-730632caa328",
         "component": "combo_piece",
         "name": "Goblinslide",
         "type_line": "Enchantment",
-        "uri": "https://api.scryfall.com/cards/a9d80e96-3956-4408-84fb-5f94a364eb41"
+        "uri": "https://api.scryfall.com/cards/b0e81bcf-d2f1-4ce0-9c1e-730632caa328"
       },
       {
         "object": "related_card",
@@ -9256,11 +9865,11 @@
       },
       {
         "object": "related_card",
-        "id": "8d8d27af-e4cf-4e18-825e-8f6c972e64ba",
+        "id": "36633f10-ea38-421c-ab80-9862eb18d6da",
         "component": "combo_piece",
         "name": "Sling-Gang Lieutenant",
         "type_line": "Creature — Goblin",
-        "uri": "https://api.scryfall.com/cards/8d8d27af-e4cf-4e18-825e-8f6c972e64ba"
+        "uri": "https://api.scryfall.com/cards/36633f10-ea38-421c-ab80-9862eb18d6da"
       },
       {
         "object": "related_card",
@@ -9304,11 +9913,11 @@
       },
       {
         "object": "related_card",
-        "id": "623c1d1b-69a4-4bc4-b388-17a7600fd960",
+        "id": "24025e76-0016-46a6-93cd-366071953c36",
         "component": "combo_piece",
         "name": "Swarming Goblins",
         "type_line": "Creature — Goblin",
-        "uri": "https://api.scryfall.com/cards/623c1d1b-69a4-4bc4-b388-17a7600fd960"
+        "uri": "https://api.scryfall.com/cards/24025e76-0016-46a6-93cd-366071953c36"
       },
       {
         "object": "related_card",
@@ -9336,27 +9945,27 @@
       },
       {
         "object": "related_card",
-        "id": "c069ebf8-5616-4cff-81d9-cd20b20102ee",
+        "id": "98be3783-23e8-4143-8685-6d887f164294",
         "component": "combo_piece",
         "name": "Goblin Gang Leader",
         "type_line": "Creature — Goblin Warrior",
-        "uri": "https://api.scryfall.com/cards/c069ebf8-5616-4cff-81d9-cd20b20102ee"
+        "uri": "https://api.scryfall.com/cards/98be3783-23e8-4143-8685-6d887f164294"
       },
       {
         "object": "related_card",
-        "id": "fc027246-1dd3-4be0-bea6-3a7476a833ce",
+        "id": "fd170aa1-18be-470e-aa36-bfb11e9f92c1",
         "component": "combo_piece",
         "name": "Mogg War Marshal",
         "type_line": "Creature — Goblin Warrior",
-        "uri": "https://api.scryfall.com/cards/fc027246-1dd3-4be0-bea6-3a7476a833ce"
+        "uri": "https://api.scryfall.com/cards/fd170aa1-18be-470e-aa36-bfb11e9f92c1"
       },
       {
         "object": "related_card",
-        "id": "b36a1bc7-a080-4fb6-b975-c59bb33a090a",
+        "id": "71c818eb-3846-471f-967a-76e1cb809b9f",
         "component": "combo_piece",
         "name": "Goblin Instigator",
         "type_line": "Creature — Goblin Rogue",
-        "uri": "https://api.scryfall.com/cards/b36a1bc7-a080-4fb6-b975-c59bb33a090a"
+        "uri": "https://api.scryfall.com/cards/71c818eb-3846-471f-967a-76e1cb809b9f"
       },
       {
         "object": "related_card",
@@ -9400,6 +10009,14 @@
       },
       {
         "object": "related_card",
+        "id": "e22c2df5-ae00-4d71-ac60-6ea402b9036b",
+        "component": "combo_piece",
+        "name": "Siege-Gang Lieutenant",
+        "type_line": "Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/e22c2df5-ae00-4d71-ac60-6ea402b9036b"
+      },
+      {
+        "object": "related_card",
         "id": "a5579dfb-4e63-4e7b-80c5-56949518c71e",
         "component": "combo_piece",
         "name": "Garbage Elemental",
@@ -9408,11 +10025,11 @@
       },
       {
         "object": "related_card",
-        "id": "c80c53a3-a2de-4e54-a50a-2eabb2ceb67c",
+        "id": "5183ca53-dc90-4971-a610-38b4ba85dc83",
         "component": "combo_piece",
         "name": "Hordeling Outburst",
         "type_line": "Sorcery",
-        "uri": "https://api.scryfall.com/cards/c80c53a3-a2de-4e54-a50a-2eabb2ceb67c"
+        "uri": "https://api.scryfall.com/cards/5183ca53-dc90-4971-a610-38b4ba85dc83"
       },
       {
         "object": "related_card",
@@ -9456,11 +10073,11 @@
       },
       {
         "object": "related_card",
-        "id": "bfeb1145-3729-481e-a314-c325ed2f2a35",
+        "id": "ef8b7992-d4d9-4d0f-9eca-5085588a4669",
         "component": "combo_piece",
         "name": "Mogg Infestation",
         "type_line": "Sorcery",
-        "uri": "https://api.scryfall.com/cards/bfeb1145-3729-481e-a314-c325ed2f2a35"
+        "uri": "https://api.scryfall.com/cards/ef8b7992-d4d9-4d0f-9eca-5085588a4669"
       },
       {
         "object": "related_card",
@@ -9480,19 +10097,19 @@
       },
       {
         "object": "related_card",
-        "id": "98b913e1-c26d-4a7d-9671-50d483304ba3",
+        "id": "0befe0f5-ff7c-441a-9bb2-cbe919be10ad",
         "component": "combo_piece",
         "name": "Siege-Gang Commander",
         "type_line": "Creature — Goblin",
-        "uri": "https://api.scryfall.com/cards/98b913e1-c26d-4a7d-9671-50d483304ba3"
+        "uri": "https://api.scryfall.com/cards/0befe0f5-ff7c-441a-9bb2-cbe919be10ad"
       },
       {
         "object": "related_card",
-        "id": "6d6adaa2-62ac-44f3-9665-8361135ccf6a",
+        "id": "2a17c97b-1195-4ca7-aa30-fe11585f180c",
         "component": "combo_piece",
         "name": "Battle Cry Goblin",
         "type_line": "Creature — Goblin",
-        "uri": "https://api.scryfall.com/cards/6d6adaa2-62ac-44f3-9665-8361135ccf6a"
+        "uri": "https://api.scryfall.com/cards/2a17c97b-1195-4ca7-aa30-fe11585f180c"
       },
       {
         "object": "related_card",
@@ -9640,11 +10257,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/d/9/d99cc0a4-4868-47f3-bd1d-f46b7cb74650.jpg?1681768986"
     },
     "prices": {
-      "usd": "1.62",
-      "usd_foil": "1.69",
+      "usd": "1.94",
+      "usd_foil": "2.22",
       "usd_etched": null,
-      "eur": "0.89",
-      "eur_foil": "1.20",
+      "eur": "1.13",
+      "eur_foil": "1.19",
       "tix": null
     },
     "promo": false,
@@ -9691,7 +10308,7 @@
     "color_identity": [
       "B"
     ],
-    "edhrec_rank": 174,
+    "edhrec_rank": 192,
     "foil": true,
     "keywords": [
       "Scry"
@@ -9724,9 +10341,9 @@
     "mana_cost": "{B}",
     "name": "Viscera Seer",
     "nonfoil": false,
-    "oracle_text": "Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+    "oracle_text": "Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
     "oversized": false,
-    "penny_rank": 1008,
+    "penny_rank": 1038,
     "power": "1",
     "reserved": false,
     "toughness": "1",
@@ -9829,7 +10446,6 @@
         "object": "card_face",
         "artist": "Matt Cavotta",
         "artist_id": "2e6a0611-9411-4ba4-98e3-c0e18cbf9f83",
-        "flavor_name": "",
         "mana_cost": "",
         "name": "Erayo's Essence",
         "oracle_text": "Whenever an opponent casts their first spell each turn, counter that spell.",
@@ -9876,7 +10492,7 @@
     "name": "Erayo, Soratami Ascendant // Erayo's Essence",
     "nonfoil": true,
     "oversized": false,
-    "penny_rank": 2955,
+    "penny_rank": 3039,
     "power": "1",
     "reserved": false,
     "toughness": "1",
@@ -9912,11 +10528,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/0/b/0b61d772-2d8b-4acf-9dd2-b2e8b03538c8.jpg?1610664131"
     },
     "prices": {
-      "usd": "4.56",
-      "usd_foil": "4.46",
+      "usd": "4.27",
+      "usd_foil": "11.43",
       "usd_etched": null,
-      "eur": "3.03",
-      "eur_foil": "14.17",
+      "eur": "3.04",
+      "eur_foil": "14.00",
       "tix": "0.02"
     },
     "promo": false,
@@ -9976,9 +10592,9 @@
       "pioneer": "not_legal",
       "explorer": "not_legal",
       "modern": "not_legal",
-      "legacy": "legal",
-      "pauper": "legal",
-      "vintage": "legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
       "penny": "not_legal",
       "commander": "legal",
       "oathbreaker": "legal",
@@ -9986,7 +10602,7 @@
       "brawl": "not_legal",
       "alchemy": "not_legal",
       "paupercommander": "legal",
-      "duel": "legal",
+      "duel": "banned",
       "oldschool": "not_legal",
       "premodern": "not_legal",
       "predh": "not_legal"
@@ -10031,10 +10647,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/2/0/20a67ee2-0137-458d-b381-430a2494357f.jpg?1675457009"
     },
     "prices": {
-      "usd": "0.19",
+      "usd": "0.23",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.13",
+      "eur": "0.18",
       "eur_foil": null,
       "tix": null
     },
@@ -10089,7 +10705,7 @@
       "G",
       "R"
     ],
-    "edhrec_rank": 3980,
+    "edhrec_rank": 4189,
     "foil": true,
     "keywords": [
       "Indestructible"
@@ -10122,7 +10738,7 @@
     "mana_cost": "{1}{R}{G}",
     "name": "Klothys, God of Destiny",
     "nonfoil": true,
-    "oracle_text": "Indestructible\nAs long as your devotion to red and green is less than seven, Klothys isn't a creature.\nAt the beginning of your precombat main phase, exile target card from a graveyard. If it was a land card, add {R} or {G}. Otherwise, you gain 2 life and Klothys deals 2 damage to each opponent.",
+    "oracle_text": "Indestructible\nAs long as your devotion to red and green is less than seven, Klothys isn't a creature.\nAt the beginning of your first main phase, exile target card from a graveyard. If it was a land card, add {R} or {G}. Otherwise, you gain 2 life and Klothys deals 2 damage to each opponent.",
     "oversized": false,
     "power": "4",
     "produced_mana": [
@@ -10168,12 +10784,12 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/5/b/5b3c393c-3596-4bd9-a553-e0b03c2eb950.jpg?1581481087"
     },
     "prices": {
-      "usd": "4.43",
-      "usd_foil": "3.54",
+      "usd": "3.26",
+      "usd_foil": "3.73",
       "usd_etched": null,
-      "eur": "4.95",
-      "eur_foil": "6.69",
-      "tix": "0.72"
+      "eur": "4.65",
+      "eur_foil": "6.10",
+      "tix": "0.30"
     },
     "promo": false,
     "purchase_uris": {
@@ -10229,7 +10845,7 @@
       "G",
       "R"
     ],
-    "edhrec_rank": 3980,
+    "edhrec_rank": 4189,
     "foil": true,
     "keywords": [
       "Indestructible"
@@ -10262,7 +10878,7 @@
     "mana_cost": "{1}{R}{G}",
     "name": "Klothys, God of Destiny",
     "nonfoil": true,
-    "oracle_text": "Indestructible\nAs long as your devotion to red and green is less than seven, Klothys isn't a creature.\nAt the beginning of your precombat main phase, exile target card from a graveyard. If it was a land card, add {R} or {G}. Otherwise, you gain 2 life and Klothys deals 2 damage to each opponent.",
+    "oracle_text": "Indestructible\nAs long as your devotion to red and green is less than seven, Klothys isn't a creature.\nAt the beginning of your first main phase, exile target card from a graveyard. If it was a land card, add {R} or {G}. Otherwise, you gain 2 life and Klothys deals 2 damage to each opponent.",
     "oversized": false,
     "power": "4",
     "produced_mana": [
@@ -10310,11 +10926,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/4/d/4d747889-04db-4e7a-ad4c-7549514b5112.jpg?1682720711"
     },
     "prices": {
-      "usd": "4.04",
-      "usd_foil": "4.80",
+      "usd": "3.71",
+      "usd_foil": "4.82",
       "usd_etched": null,
-      "eur": "4.79",
-      "eur_foil": "5.93",
+      "eur": "4.22",
+      "eur_foil": "5.32",
       "tix": null
     },
     "promo": false,
@@ -10374,7 +10990,7 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 775,
+    "edhrec_rank": 800,
     "foil": true,
     "keywords": [
       "Trample"
@@ -10449,11 +11065,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/a/3/a391da36-0b40-46ea-b771-50d2b920207e.jpg?1581480808"
     },
     "prices": {
-      "usd": "26.47",
-      "usd_foil": "26.83",
+      "usd": "29.44",
+      "usd_foil": "27.12",
       "usd_etched": null,
-      "eur": "15.12",
-      "eur_foil": "16.59",
+      "eur": "15.52",
+      "eur_foil": "15.93",
       "tix": "0.02"
     },
     "promo": false,
@@ -10507,7 +11123,7 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 775,
+    "edhrec_rank": 800,
     "foil": true,
     "keywords": [
       "Trample"
@@ -10582,11 +11198,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c8a8e37b-0b97-4355-8e00-169a82c38ea0.jpg?1634466744"
     },
     "prices": {
-      "usd": "35.21",
-      "usd_foil": "55.76",
+      "usd": "34.14",
+      "usd_foil": "59.12",
       "usd_etched": null,
-      "eur": "20.28",
-      "eur_foil": "41.12",
+      "eur": "23.22",
+      "eur_foil": "40.70",
       "tix": null
     },
     "promo": false,
@@ -10640,7 +11256,7 @@
       "G",
       "W"
     ],
-    "edhrec_rank": 494,
+    "edhrec_rank": 477,
     "foil": true,
     "keywords": [
       "Scry"
@@ -10673,9 +11289,9 @@
     "mana_cost": "",
     "name": "Temple of Plenty",
     "nonfoil": true,
-    "oracle_text": "Temple of Plenty enters the battlefield tapped.\nWhen Temple of Plenty enters the battlefield, scry 1.\n{T}: Add {G} or {W}.",
+    "oracle_text": "Temple of Plenty enters tapped.\nWhen Temple of Plenty enters, scry 1.\n{T}: Add {G} or {W}.",
     "oversized": false,
-    "penny_rank": 1160,
+    "penny_rank": 1130,
     "produced_mana": [
       "G",
       "W"
@@ -10714,12 +11330,12 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/6/e/6e6256ea-ccb5-4595-8278-44266f922e31.jpg?1581481279"
     },
     "prices": {
-      "usd": "0.17",
-      "usd_foil": "0.35",
+      "usd": "0.16",
+      "usd_foil": "0.23",
       "usd_etched": null,
-      "eur": "0.33",
-      "eur_foil": "0.69",
-      "tix": "0.03"
+      "eur": "0.31",
+      "eur_foil": "0.68",
+      "tix": "0.02"
     },
     "promo": false,
     "purchase_uris": {
@@ -10771,7 +11387,7 @@
       "G",
       "W"
     ],
-    "edhrec_rank": 494,
+    "edhrec_rank": 477,
     "foil": true,
     "keywords": [
       "Scry"
@@ -10804,9 +11420,9 @@
     "mana_cost": "",
     "name": "Temple of Plenty",
     "nonfoil": true,
-    "oracle_text": "Temple of Plenty enters the battlefield tapped.\nWhen Temple of Plenty enters the battlefield, scry 1.\n{T}: Add {G} or {W}.",
+    "oracle_text": "Temple of Plenty enters tapped.\nWhen Temple of Plenty enters, scry 1.\n{T}: Add {G} or {W}.",
     "oversized": false,
-    "penny_rank": 1160,
+    "penny_rank": 1130,
     "produced_mana": [
       "G",
       "W"
@@ -10848,11 +11464,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/6/1/61dc9a80-850c-4945-b84a-85381cc3ee85.jpg?1580351273"
     },
     "prices": {
-      "usd": "1.64",
-      "usd_foil": "7.65",
+      "usd": "1.21",
+      "usd_foil": "6.57",
       "usd_etched": null,
-      "eur": "1.47",
-      "eur_foil": "5.76",
+      "eur": "1.82",
+      "eur_foil": "5.05",
       "tix": null
     },
     "promo": false,
@@ -10930,7 +11546,7 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 3549,
+    "edhrec_rank": 3643,
     "foil": true,
     "keywords": [
       "Enchant"
@@ -10948,7 +11564,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "oathbreaker": "legal",
       "standardbrawl": "not_legal",
@@ -10965,7 +11581,7 @@
     "nonfoil": true,
     "oracle_text": "Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional {G}.\n{4}{G}, Sacrifice Wolfwillow Haven: Create a 2/2 green Wolf creature token. Activate only during your turn.",
     "oversized": false,
-    "penny_rank": 2458,
+    "penny_rank": 2531,
     "produced_mana": [
       "G"
     ],
@@ -11003,10 +11619,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/7/2/72b886c3-234c-49ce-9a11-456c1e8f092f.jpg?1581480945"
     },
     "prices": {
-      "usd": "0.29",
-      "usd_foil": "0.33",
+      "usd": "0.19",
+      "usd_foil": "0.48",
       "usd_etched": null,
-      "eur": "0.23",
+      "eur": "0.22",
       "eur_foil": "0.47",
       "tix": "0.03"
     },
@@ -11078,7 +11694,7 @@
     "color_identity": [
       "G"
     ],
-    "edhrec_rank": 3549,
+    "edhrec_rank": 3643,
     "foil": true,
     "keywords": [
       "Enchant"
@@ -11096,7 +11712,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "oathbreaker": "legal",
       "standardbrawl": "not_legal",
@@ -11113,7 +11729,7 @@
     "nonfoil": true,
     "oracle_text": "Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional {G}.\n{4}{G}, Sacrifice Wolfwillow Haven: Create a 2/2 green Wolf creature token. Activate only during your turn.",
     "oversized": false,
-    "penny_rank": 2458,
+    "penny_rank": 2531,
     "produced_mana": [
       "G"
     ],
@@ -11154,11 +11770,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/c/f/cfc4be7b-a948-464d-8327-575ccb7dccf3.jpg?1586187338"
     },
     "prices": {
-      "usd": "1.46",
-      "usd_foil": "5.01",
+      "usd": "1.49",
+      "usd_foil": "3.54",
       "usd_etched": null,
-      "eur": "0.31",
-      "eur_foil": "0.66",
+      "eur": "0.27",
+      "eur_foil": "0.87",
       "tix": null
     },
     "promo": true,
@@ -11320,10 +11936,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/8/9/8987644d-5a31-4a4e-9a8a-3d6260ed0fd6.jpg?1562488870"
     },
     "prices": {
-      "usd": "1.44",
-      "usd_foil": "45.14",
+      "usd": "1.92",
+      "usd_foil": null,
       "usd_etched": null,
-      "eur": "1.15",
+      "eur": "0.73",
       "eur_foil": "47.80",
       "tix": null
     },
@@ -11490,10 +12106,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/9/a/9a650610-20e2-4f16-b59c-2ea7779f6e47.jpg?1562927634"
     },
     "prices": {
-      "usd": "1.31",
+      "usd": "1.29",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "1.89",
+      "eur": "1.38",
       "eur_foil": "18.21",
       "tix": null
     },
@@ -11659,10 +12275,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/2/a/2a90b2b6-d96e-4c13-83be-849d2ec1d845.jpg?1562904026"
     },
     "prices": {
-      "usd": "1.45",
-      "usd_foil": "7.23",
+      "usd": "1.80",
+      "usd_foil": "7.54",
       "usd_etched": null,
-      "eur": "2.15",
+      "eur": "2.22",
       "eur_foil": "10.56",
       "tix": null
     },
@@ -11836,10 +12452,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/2/d/2dfc9416-06d6-40af-8b3d-62371b3da7c5.jpg?1562904665"
     },
     "prices": {
-      "usd": "1.73",
-      "usd_foil": "8.47",
+      "usd": "1.83",
+      "usd_foil": "9.23",
       "usd_etched": null,
-      "eur": "2.20",
+      "eur": "2.26",
       "eur_foil": "10.92",
       "tix": null
     },
@@ -12005,10 +12621,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/12272ce6-ab1f-4576-9e50-21d324263c44.jpg?1562898766"
     },
     "prices": {
-      "usd": "2.80",
-      "usd_foil": "8.00",
+      "usd": "3.43",
+      "usd_foil": null,
       "usd_etched": null,
-      "eur": "1.17",
+      "eur": "1.90",
       "eur_foil": "12.81",
       "tix": null
     },
@@ -12176,10 +12792,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/d/8/d8e84dd2-01f9-4fad-8a24-cc86424d09a2.jpg?1562940811"
     },
     "prices": {
-      "usd": "3.09",
+      "usd": "3.51",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "2.14",
+      "eur": "2.04",
       "eur_foil": "8.26",
       "tix": null
     },
@@ -12355,11 +12971,11 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/d/4/d41e6c51-d96a-436f-94c5-5d1e19c5e0d5.jpg?1562939866"
     },
     "prices": {
-      "usd": "1.35",
+      "usd": "1.34",
       "usd_foil": "5.17",
       "usd_etched": null,
-      "eur": "1.68",
-      "eur_foil": "7.10",
+      "eur": "2.10",
+      "eur_foil": "6.30",
       "tix": null
     },
     "promo": false,
@@ -12410,7 +13026,7 @@
     "color_identity": [
       "U"
     ],
-    "edhrec_rank": 16985,
+    "edhrec_rank": 17703,
     "foil": true,
     "keywords": [],
     "layout": "normal",
@@ -12441,9 +13057,9 @@
     "mana_cost": "{3}{U}",
     "name": "Academy Elite",
     "nonfoil": true,
-    "oracle_text": "Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.\n{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.",
+    "oracle_text": "Academy Elite enters with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.\n{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.",
     "oversized": false,
-    "penny_rank": 5859,
+    "penny_rank": 6089,
     "power": "0",
     "reserved": false,
     "toughness": "0",
@@ -12553,7 +13169,7 @@
     "color_identity": [
       "W"
     ],
-    "edhrec_rank": 9570,
+    "edhrec_rank": 10036,
     "foil": false,
     "keywords": [
       "Flying",
@@ -12589,7 +13205,7 @@
     "nonfoil": true,
     "oracle_text": "Flying, vigilance",
     "oversized": false,
-    "penny_rank": 10231,
+    "penny_rank": 10460,
     "power": "4",
     "reserved": false,
     "toughness": "4",
@@ -12625,10 +13241,10 @@
       "border_crop": "https://cards.scryfall.io/border_crop/front/8/7/8752c1db-b924-4dda-8b71-4c254d0ef2de.jpg?1562923563"
     },
     "prices": {
-      "usd": "0.14",
+      "usd": "0.07",
       "usd_foil": null,
       "usd_etched": null,
-      "eur": "0.09",
+      "eur": "0.11",
       "eur_foil": null,
       "tix": "0.06"
     },

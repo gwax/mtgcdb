@@ -67,6 +67,15 @@ def test_setcode_to_cards(scryfall_data: ScryfallDataSet) -> None:
         "74d",
     ]
 
+    # The List Sorting
+    assert [(c.collector_number, c.name) for c in index.setcode_to_cards["plst"]] == [
+        ("10E-20", "High Ground"),
+        ("10E-182", "Terror"),
+        ("AKH-2", "Anointed Procession"),
+        ("AKH-3", "Anointer Priest"),
+        ("ARB-1", "Ardent Plea"),
+    ]
+
 
 def test_id_to_setindex(scryfall_data: ScryfallDataSet) -> None:
     index = ScryfallDataIndex()

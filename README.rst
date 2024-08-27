@@ -179,6 +179,11 @@ Development
 
 -   ...
 
+2.6.9
+-----
+
+-   Fix sorting of cards with collector number prefixes (primarily PLST).
+
 2.6.1
 -----
 

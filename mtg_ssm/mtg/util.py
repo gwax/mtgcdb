@@ -1,32 +1,24 @@
 """Utility functions for working with card data."""
 
 import functools
-import string
-from typing import Optional, Tuple
-
-from mtg_ssm.scryfall.models import ScryCard
+import re
+from typing import Tuple
 
 STRICT_BASICS = frozenset({"Plains", "Island", "Swamp", "Mountain", "Forest"})
 
+COLLECTOR_NUMBER_RE = re.compile(r"(?P<prefix>.*-|\D+)?(?P<number>\d+)?(?P<suffix>\D.*)?")
+
 
 @functools.lru_cache(maxsize=None)
-def dig_str(collector_number: str) -> Tuple[Optional[int], Optional[str]]:
-    """Split a collector number into integer portion and non-digit portion."""
-    digpart = []
-    strpart = []
-    for char in collector_number:
-        if char in string.digits:
-            digpart.append(char)
-        else:
-            strpart.append(char)
-    if not digpart:
-        return (None, "".join(strpart))
-    return (int("".join(digpart)), "".join(strpart) or None)
-
-
-def collector_int_var(card: ScryCard) -> Tuple[Optional[int], Optional[str]]:
-    """Get the integer and variant portions of a card's collector number."""
-    return dig_str(card.collector_number)
+def collector_number_parts(collector_number: str) -> Tuple[str, int, str]:
+    """Split a collector number into its parts."""
+    match = COLLECTOR_NUMBER_RE.match(collector_number)
+    if not match:
+        return ("", 0, "")
+    prefix: str = match.group("prefix") or ""
+    number: int = int(match.group("number")) if match.group("number") else 0
+    suffix: str = match.group("suffix") or ""
+    return (prefix, number, suffix)
 
 
 def is_strict_basic(card_name: str) -> bool:
