@@ -162,13 +162,13 @@ Acknowledgments
     early '90s.
 -   `Scryfall`_: Scryfall is a fantastic resource for anyone trying to lookup
     cards or build software on top of up to date Magic card information.
--   `MTG JSON`_: MTG JSON is an amazing resource for anyone looking to build
-    tools around magic card data. Before Scryfall, MTG JSON was my primary
-    source for card data and, without it, mtg-ssm would not exist.
+-   `MTGJSON`_: MTGJSON is an amazing resource for anyone looking to build
+    tools around magic card data. Before Scryfall, MTGJSON was my primary
+    source for card data and, without it, mtg-ssm would have died long ago.
 
 .. _Wizards of the Coast: http://magic.wizards.com
 .. _Scryfall: https://scryfall.com
-.. _MTG JSON: http://mtgjson.com
+.. _MTGJSON: http://mtgjson.com
 
 
 Changelog
@@ -398,7 +398,7 @@ Development
 1.2.3
 -----
 
--   Hack to work around missing "releaseDate" and "type" in MTG JSON 3.3.14
+-   Hack to work around missing "releaseDate" and "type" in MTGJSON 3.3.14
 
 1.2.2
 -----
@@ -440,3 +440,13 @@ Development
 -----
 
 -   Initial stable release.
+
+GsMtgJson
+---------
+
+Before mtg-ssm, this tool lived as a Google Apps Script project called
+`GsMtgJson`_. As Magic added more cards, eventually the script became
+too slow to function inside the constraints of Google Apps Script and
+Google Sheets.
+
+.. _GsMtgJson: https://github.com/gwax/GsMtgJson

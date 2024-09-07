@@ -28,15 +28,18 @@ ALL_SETS_SHEET_HEADER: Sequence[str] = [
     "release",
     "block",
     "type",
-    "cards",
+    "printed",
+    "have",
     "unique",
     "playsets",
-    "count",
+    "extras",
+    "nonfoil",
+    "foil",
     "value",
 ]
 
 ALL_SETS_SHEET_TOTALS: Sequence[Optional[str]] = ["Total", None, None, None, None] + [
-    f"=SUM({c}3:{c}65535)" for c in "FGHIJ"
+    f"=SUM({c}3:{c}65535)" for c in "FGHIJKLM"
 ]
 
 
@@ -64,9 +67,12 @@ def create_all_sets(sheet: Worksheet, index: ScryfallDataIndex) -> None:
             card_set.block,
             card_set.set_type.value,
             len(index.setcode_to_cards[card_set.code]),
+            f"=SUM('{setcode}'!{_setsheet_col('have')}:{_setsheet_col('have')})",
             f"=COUNTIF('{setcode}'!{_setsheet_col('have')}:{_setsheet_col('have')},\">0\")",
             f"=COUNTIF('{setcode}'!{_setsheet_col('have')}:{_setsheet_col('have')},\">=4\")",
-            f"=SUM('{setcode}'!{_setsheet_col('have')}:{_setsheet_col('have')})",
+            f"=SUMIF('{setcode}'!{_setsheet_col('have')}:{_setsheet_col('have')},\">4\")-4*COUNTIF('{setcode}'!{_setsheet_col('have')}:{_setsheet_col('have')},\">4\")",
+            f"=SUM('{setcode}'!{_setsheet_col('nonfoil')}:{_setsheet_col('nonfoil')})",
+            f"=SUM('{setcode}'!{_setsheet_col('foil')}:{_setsheet_col('foil')})",
             f"=SUM('{setcode}'!{_setsheet_col('value')}:{_setsheet_col('value')})",
         ]
         sheet.append(row)
@@ -81,11 +87,14 @@ def style_all_sets(sheet: Worksheet) -> None:
         ("C", 12, True, None),
         ("D", 22, True, None),
         ("E", 15, True, None),
-        ("F", 6, False, None),
-        ("G", 7, False, None),
-        ("H", 8, False, None),
-        ("I", 7, False, None),
-        ("J", 10, False, FORMAT_CURRENCY_USD_SIMPLE),
+        ("F", 7, False, None),
+        ("G", 6, False, None),
+        ("H", 7, False, None),
+        ("I", 8, False, None),
+        ("J", 6, False, None),
+        ("K", 7, False, None),
+        ("L", 5, False, None),
+        ("M", 10, False, FORMAT_CURRENCY_USD_SIMPLE),
     ]
     for col, width, hidden, number_format in col_width_hidden_format:
         cdim = sheet.column_dimensions[col]
