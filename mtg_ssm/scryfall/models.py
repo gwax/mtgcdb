@@ -103,6 +103,7 @@ class ScryFrameEffect(str, Enum):
     CONVERTDFC = "convertdfc"
     DEVOID = "devoid"
     DRAFT = "draft"
+    ENCHANTMENT = "enchantment"
     ETCHED = "etched"
     EXTENDEDART = "extendedart"
     FANDFC = "fandfc"
